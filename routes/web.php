@@ -36,7 +36,7 @@ Route::get('/clear-cache', function () {
  Route::get('/centra_park', function () {return view('website.centra_park.centra_park');})->name('centra_park');
  Route::get('/south_street', function () {return view('website.south_street.south_street');})->name('south_street');
 
-Route::get('highline', [HomeController::class,'highline'] )->name('highline');
+// Route::get('highline', [HomeController::class,'highline'] )->name('highline');
 
 Route::post('message', [HomeController::class,'message'])->name('message');
 
@@ -79,3 +79,18 @@ Route::get('/Design', function () {
 Route::get('/Design_two', function () {
     return view('website.article.Design_two');
 })->name('Design_two');
+Route::get('/one_world', function () {
+    return view('website.one_world.one_world');
+})->name('one_world');
+Route::get('/centra_park', function () {
+    return view('website.centra_park.centra_park');
+})->name('centra_park');
+Route::get('/south_street', function () {
+    return view('website.south_street.south_street');
+})->name('south_street');
+Route::get('/united _nations_headquarters', function () {
+    return view('website.united _nations_headquarters.united _nations_headquarters');
+})->name('united _nations_headquarters');
+Route::get('highline', function () {
+    return view('website.highline.highline');
+})->name('highline');
