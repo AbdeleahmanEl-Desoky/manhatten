@@ -36,18 +36,10 @@ Route::get('/clear-cache', function () {
  Route::get('/centra_park', function () {return view('website.centra_park.centra_park');})->name('centra_park');
  Route::get('/south_street', function () {return view('website.south_street.south_street');})->name('south_street');
  Route::get('/statue_of_liberty', function () {return view('website.statue_of_liberty.statue_of_liberty');})->name('statue_of_liberty');
-
-// Route::get('highline', [HomeController::class,'highline'] )->name('highline');
+ Route::get('/brooklyn_bridge', function () {return view('website.brooklyn_bridge.brooklyn_bridge');})->name('brooklyn_bridge');
+ Route::get('highline', [HomeController::class,'highline'] )->name('highline');
 
 Route::post('message', [HomeController::class,'message'])->name('message');
-
-
-
-
-
-
-
-
 
 Route::get('/content', function () {
     return view('website.contact.index');

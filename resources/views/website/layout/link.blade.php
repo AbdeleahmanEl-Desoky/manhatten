@@ -26,11 +26,15 @@
                         src="{{ asset('website/assets/images/header/buttons/Little Island,.jpg') }}" alt=""></a>
         <a class="link_image" href="{{route('centra_park')}}"><img class="img_header"
                             src="{{ asset('website/assets/images/header/buttons/View from inside Central Park, NYC.jpg') }}" alt=""></a>
-                            <a class="link_image" href="{{route('south_street')}}"><img class="img_header"
-                                                src="{{ asset('website/assets/images/header/buttons/South Street.jpg') }}" alt=""></a>
+        <a class="link_image" href="{{route('south_street')}}"><img class="img_header"
+                            src="{{ asset('website/assets/images/header/buttons/South Street.jpg') }}" alt=""></a>
+        <a class="link_image" href="{{route('brooklyn_bridge')}}"><img class="img_header"
+                            src="{{ asset('website/assets/images/header/buttons/brooklyn_bridge.jpg') }}" alt=""></a>
+
+        <a class="link_image" href="{{route('highline')}}"><img class="img_header"
+                            src="{{ asset('website/assets/images/header/buttons/highline.jpg') }}" alt=""></a>
 
 
-
-                        </div>
+    </div>
 
 </div>

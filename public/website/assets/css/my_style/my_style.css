@@ -1,12 +1,7 @@
 /* * --------------------------------------------------------------------------------*/
 /* *                             style for video in header                           */
 /* * --------------------------------------------------------------------------------*/
-*{
-    color: #000;
-}
-html {
-    /* user-select: none; */
-    }
+
   /* Style the video: 100% width and height to cover the entire window */
   .video{
     /* width:1341px; */
@@ -731,7 +726,9 @@ a, a:hover {
         width: 62px;
         height: 63px;
   }
-
+  html {
+    user-select: none;
+    }
   .img_header:hover{
     width: 200px;
     height: 150px;

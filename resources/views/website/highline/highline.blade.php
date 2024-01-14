@@ -14,7 +14,7 @@
         <div id="carouselExampleIndicators" class="carousel slide img_container">
             <div class="carousel-inner">
                 <div class="carousel-item carousel_height h-100  active img_about">
-                    <img class="d-block h-100 w-100" src="{{ asset('images/times-square/Times-Square.jpg') }}"
+                    <img class="d-block h-100 w-100" src="{{ asset('website/assets/images/header/3.jpeg') }}"
                         alt="First slide">
                 </div>
             </div>
@@ -79,43 +79,8 @@
         {{-- * -------------------------------------------------------------------------------- --}}
 
         <div class="container " id="container_contact">
+            @include('website.layout.link')
 
-            <div class="row  wow bounce " data-wow-delay="0.1s">
-                <div class="col-12 col-lg-4 p-2 m-auto text-center bg-light one_title">
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/7.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/6.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/5.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/4.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/3.jpg') }}" alt=""></a>
-                </div>
-                <div class="col-12 col-lg-4 p-2 m-auto text-center">
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/2.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/1.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/15.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/14.jpg') }}" alt=""></a>
-                </div>
-                <div class="col-12 col-lg-4 p-2 m-auto text-center">
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/12.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/16.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/11.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/10.jpg') }}" alt=""></a>
-                    <a class="link_image" href="#"><img class="img_header"
-                            src="{{ asset('website/assets/images/header/buttons/9.jpg') }}" alt=""></a>
-                </div>
-            </div>
             <div class="row wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="col-12 text-center p-4">
 
@@ -124,9 +89,11 @@
                     </h2>
                 </div>
             </div>
+
         </div>
 
         <div class="container-fluid ">
+
             <div class="row  wow bounce " data-wow-delay="0.1s">
                 <div class="col-12 col-lg-">
                     <h4 class="text-center my-5 container">
@@ -2010,12 +1977,14 @@
                         Avenue.<br> <br>
                         Take bus from 9 Avenue to14 Street and wake to 10 Avenue.
                     </p>
-                </div>
-
-                <iframe id="map"
+                    @include('website.layout.link')
+                    <iframe id="map"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6379043647953!2d-74.00733982397243!3d40.74799247138834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259c7840fb4e5%3A0x583f615c850a3c91!2sThe%20High%20Line!5e0!3m2!1sen!2sus!4v1704371687378!5m2!1sen!2sus"
                     width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+
             </div>
 
         </div>
