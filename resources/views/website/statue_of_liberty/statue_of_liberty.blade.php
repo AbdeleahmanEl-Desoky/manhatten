@@ -1,3 +1,5 @@
+{{-- 20210413_141544.mp4 --}}
+{{-- 20210413_113757.mp4 --}}
 @extends('website.layout.app')
 
 @section('title')
@@ -538,7 +540,7 @@
                 <div class="row ">
                     <div class="col-12 col-lg-5 mx-auto video_1 ">
                         <video autoplay muted loop id="myVideo_1">
-                            <source class="" src="{{ asset('images/South Street/20201213_150057.mp4') }}"
+                            <source class="" src="{{ asset('images/Statue_of_Liberty/20210413_141544.mp4') }}"
                                 type="video/mp4">
                         </video>
                     </div>
@@ -1161,7 +1163,7 @@
             <div class="row px-3 wow bounce" data-wow-delay="0.1s">
                 <div class="col-12 col-lg-5 mx-auto video_1 ">
                     <video autoplay muted loop id="myVideo_1">
-                        <source class="" src="{{ asset('images/South Street/20201213_150057.mp4') }}"
+                        <source class="" src="{{ asset('images/Statue_of_Liberty/20210413_113757.mp4') }}"
                             type="video/mp4">
                     </video>
                     <small class="text-center d-block">After get Ticket Cross to The Ship</small>
@@ -1170,7 +1172,7 @@
             <div class="row px-3 wow bounce" data-wow-delay="0.1s">
                 <div class="col-12 col-lg-5 mx-auto video_1 ">
                     <video autoplay muted loop id="myVideo_1">
-                        <source class="" src="{{ asset('images/South Street/20201213_150057.mp4') }}"
+                        <source class="" src="{{ asset('images/Statue_of_Liberty/20210413_114746.mp4') }}"
                             type="video/mp4">
                     </video>
                     <small class="text-center d-block"> Cross inside Battery Park to office Tickets</small>

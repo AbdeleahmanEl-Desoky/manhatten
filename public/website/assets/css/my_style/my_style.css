@@ -6,7 +6,7 @@
   .video{
     /* width:1341px; */
     height:478px;
-    margin-top: 81px;
+    margin-top: 75px;
     overflow: hidden;
     right: 0;
     height: 90vh;
@@ -45,10 +45,18 @@
     /*top: 4%;*/
 }
 .carousel-inner{
-    margin-top: 79px;
+    margin-top: 69px;
 }
  .carousel-inner {
     height: 90vh !important;
+}
+.hoverLink{
+    font-weight: bold;
+    transition: all 1s;
+}
+.hoverLink:hover{
+    letter-spacing: 3px;
+    color: red !important;
 }
 /* Add some content at the bottom of the video/page */
 .content {
@@ -154,7 +162,7 @@
 /* *                        style animation for image in header                       */
 /* * -------------------------------------------------------------------------------- */
 
-.carousel-item {
+-item {
     transform-style: preserve-3d;
     transition: transform 1s;
     transform-origin: center;
@@ -726,9 +734,7 @@ a, a:hover {
         width: 62px;
         height: 63px;
   }
-  html {
-    user-select: none;
-    }
+
   .img_header:hover{
     width: 200px;
     height: 150px;
@@ -879,9 +885,7 @@ a, a:hover {
     border: none !important;
 
 }
-.collapse .dropdown{
-    margin-bottom: 1%;
-}
+
 
 .layerIndex{
     z-index: 3;
@@ -951,3 +955,12 @@ a, a:hover {
   .link_image:hover img {
     transform: scale(1.2); /* Adjust the scaling factor as needed */
   }
+  .logo2{display: none;}
+@media (max-width: 768px) {
+    .logo1{
+        display: none;
+    }
+    .logo2{
+        display: block;
+    }
+}

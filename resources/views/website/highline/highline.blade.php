@@ -171,8 +171,8 @@
                         <div class="col-12 col-lg-4 mx-auto">
                             <!-- Centered image with text -->
                             <img class="w-100 h-75 p-2"
-                                src="{{ asset('images/highline/Walking on Highline New York city.jpg') }}"
-                                class="img-fluid" alt="Article Image">
+                                src="{{ asset('images/highline/Walking on Highline New York city.jpg') }}" class="img-fluid"
+                                alt="Article Image">
                             <small class="d-block text-center">Walking on Highline New York city</small>
                         </div>
                     </div>
@@ -1979,9 +1979,9 @@
                     </p>
                     @include('website.layout.link')
                     <iframe id="map"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6379043647953!2d-74.00733982397243!3d40.74799247138834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259c7840fb4e5%3A0x583f615c850a3c91!2sThe%20High%20Line!5e0!3m2!1sen!2sus!4v1704371687378!5m2!1sen!2sus"
-                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6379043647953!2d-74.00733982397243!3d40.74799247138834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259c7840fb4e5%3A0x583f615c850a3c91!2sThe%20High%20Line!5e0!3m2!1sen!2sus!4v1704371687378!5m2!1sen!2sus"
+                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
 
 
