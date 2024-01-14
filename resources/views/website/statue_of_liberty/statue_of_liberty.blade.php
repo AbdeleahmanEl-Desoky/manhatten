@@ -396,7 +396,7 @@
                     is dressed in a flowing gown.<br>
                 </p>
                 <b>A closer examination of the statue's numerous components and their symbolic meaning follows:</b>
-                <ol type="1">
+                <ul>
                     <li class="mb-2"> Libertas, the Roman goddess of freedom, is represented by the statue's garment. It
                         stands
                         for freedom and the principles of democracy that the US maintains.</li>
@@ -420,7 +420,7 @@
                         perched. The well-known refrain, "Give me your tired, your poor, your huddled masses yearning to
                         breathe free," perfectly captures the ethos of the country, which welcomes individuals looking for a
                         better life.</li>
-                </ol>
+                </ul>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Statue of Liberty, Manhattan New York City, is a towering representation of liberty, democracy, and
                     optimism.<br>
@@ -1013,7 +1013,7 @@
                     others at risk, harm park property, or annoy wildlife.<br>
                 </p>
                 <b>Specific instances of forbidden behavior include the following:</b>
-                <ol type="1">
+                <ul>
                     <li class="mb-2"> Fishing or hunting without a current license</li>
                     <li class="mb-2"> Bringing a pet to an event where it is prohibited</li>
                     <li class="mb-2"> Using illegal drugs or alcohol</li>
@@ -1022,7 +1022,7 @@
                     <li class="mb-2"> usage of loudspeakers or amplifiers without permission</li>
                     <li class="mb-2"> Acting in a way that prevents other people from enjoying the park</li>
 
-                </ol>
+                </ul>
 
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Before going to an event, it's a good idea to become familiar with the policies of the state park you
