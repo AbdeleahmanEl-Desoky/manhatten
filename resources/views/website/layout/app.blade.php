@@ -161,8 +161,10 @@
                                                 Highline,
                                                 NYC</a>
                                             <a class="dropdown-item"
-                                                href="{{ route('united _nations_headquarters') }}">
+                                                href="{{ route('united_nations_headquarters') }}">
                                                 United, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">
+                                                Statue, NYC</a>
                                         </div>
                                     </div>
                                     <form class="form-inline">

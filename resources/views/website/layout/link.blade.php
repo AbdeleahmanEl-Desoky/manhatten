@@ -38,7 +38,7 @@
         <a class="link_image" href="{{ route('statue_of_liberty') }}"><img class="img_header"
                 src="{{ asset('website/assets/images/header/buttons/State Of Liberty, Manhattan New York City.jpg') }}"
                 alt=""></a>
-        <a class="link_image" href="{{ route('united _nations_headquarters') }}"><img class="img_header"
+        <a class="link_image" href="{{ route('united_nations_headquarters') }}"><img class="img_header"
                 src="{{ asset('website/assets/images/header/buttons/United Nations Headquarters, New York City.jpg') }}"
                 alt=""></a>
 

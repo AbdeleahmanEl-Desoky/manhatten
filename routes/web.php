@@ -84,9 +84,6 @@ Route::get('/centra_park', function () {
 Route::get('/south_street', function () {
     return view('website.south_street.south_street');
 })->name('south_street');
-Route::get('/united _nations_headquarters', function () {
-    return view('website.united _nations_headquarters.united _nations_headquarters');
-})->name('united _nations_headquarters');
-Route::get('highline', function () {
-    return view('website.highline.highline');
-})->name('highline');
+Route::get('united_nations_headquarters', function () {
+    return view('website.united_nations_headquarters.united_nations_headquarters');
+})->name('united_nations_headquarters');

@@ -82,7 +82,7 @@
         <div class="container-fluid " id="container_contact">
 
 
-            {{-- @include('website.layout.link') --}}
+            @include('website.layout.link')
 
 
             <div class="row">
