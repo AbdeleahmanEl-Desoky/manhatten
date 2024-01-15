@@ -85,7 +85,7 @@
 
                         <div class="logo2 ">
                             <img class="object-fit-cover  rounded" width="100px" onContextMenu="return false;"
-                                src="{{ asset('images/Manhattan Logo/LOGO .png') }}" alt="Article Image">
+                                src="{{ asset('website/assets/Manhattan Logo/LOGO .png') }}" alt="Article Image">
 
                         </div>
                         <div class=" d-flex justify-content-between">
@@ -100,7 +100,8 @@
                                 class="w-100 d-lg-flex d-sm-block ml-sm-5 ml-lg-0 justify-content-between align-items-center">
                                 <div class="logo1 ">
                                     <img class="object-fit-cover  rounded" width="100px" onContextMenu="return false;"
-                                        src="{{ asset('images/Manhattan Logo/LOGO .png') }}" alt="Article Image">
+                                        src="{{ asset('website/assets/Manhattan Logo/LOGO .png') }}"
+                                        alt="Article Image">
 
                                 </div>
                                 <div class="d-flex align-items-center">
@@ -157,15 +158,15 @@
                                                 Park,
                                                 NYC</a>
                                             <a class="dropdown-item" href="{{ route('highline') }}">
-                                                highline,
+                                                Highline,
                                                 NYC</a>
                                             <a class="dropdown-item"
-                                                href="{{ route('united _nations_headquarters') }}">Centra
-                                                united,NYC</a>
+                                                href="{{ route('united _nations_headquarters') }}">
+                                                United, NYC</a>
                                         </div>
                                     </div>
                                     <form class="form-inline">
-                                        <button class="btn btn-info px-5" href="#map" type="submit">Map</button>
+                                        <a class="btn btn-info px-5" href="#map" type="submit">Map</a>
                                     </form>
                                 </div>
 

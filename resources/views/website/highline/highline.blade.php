@@ -1974,11 +1974,11 @@
                     <br> <br>
                     <p class="wow bounce  " data-wow-delay="0.1s">
                         Take subway number (E, A, C) to 14 Street with 8 Avenue and wake to west 14 street with 10
-                        Avenue.<br> <br>
+                        Avenue.<br> <br id="map">
                         Take bus from 9 Avenue to14 Street and wake to 10 Avenue.
                     </p>
                     @include('website.layout.link')
-                    <iframe id="map"
+                    <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6379043647953!2d-74.00733982397243!3d40.74799247138834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259c7840fb4e5%3A0x583f615c850a3c91!2sThe%20High%20Line!5e0!3m2!1sen!2sus!4v1704371687378!5m2!1sen!2sus"
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>

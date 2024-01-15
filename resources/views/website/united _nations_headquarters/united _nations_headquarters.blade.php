@@ -1609,7 +1609,7 @@
                 <div class="wow bounce my-3 " data-wow-delay="0.1s">
                     <h3 id="Directions">Directions to the United Nations headquarters, New York City</h3>
                     <b>Go to 42 Street and take the bus from 42 Street to First Avenue East 42 Street.</b>
-                    <b>By Taxi</b>
+                    <b id="map">By Taxi</b>
                 </div>
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.5771960075103!2d-73.97049902397245!3d40.749328071388035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2591ce0874d11%3A0xc5fae28bdd3df635!2sUnited%20Nations%20Headquarters!5e0!3m2!1sen!2sus!4v1704629791639!5m2!1sen!2sus"
