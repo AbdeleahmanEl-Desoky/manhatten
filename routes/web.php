@@ -38,6 +38,9 @@ Route::get('/clear-cache', function () {
  Route::get('/statue_of_liberty', function () {return view('website.statue_of_liberty.statue_of_liberty');})->name('statue_of_liberty');
  Route::get('/brooklyn_bridge', function () {return view('website.brooklyn_bridge.brooklyn_bridge');})->name('brooklyn_bridge');
  Route::get('highline', [HomeController::class,'highline'] )->name('highline');
+ Route::get('/edge', function () {return view('website.edge.edge');})->name('edge');
+
+
 
 Route::post('message', [HomeController::class,'message'])->name('message');
 
