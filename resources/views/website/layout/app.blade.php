@@ -22,7 +22,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Information about Manhattan, NYC, museum, theaters, famous places and buildings like Times Square, Rockefeller center, one world trade center, Brooklyn bridge, statue of Liberty,also parks and more.">
-    <link rel="icon" type="image/png" href="{{ asset('images/Manhattan Logo/LOGO .png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('website/assets/Manhattan Logo/LOGO .png') }}">
 
     <!-- Google-specific meta tags -->
     <meta name="google-site-verification"
