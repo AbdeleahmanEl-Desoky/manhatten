@@ -85,7 +85,7 @@
 
                         <div class="logo2 ">
                             <img class="object-fit-cover  rounded" width="100px" onContextMenu="return false;"
-                                src="{{ asset('website/assets/Manhattan Logo/LOGO .png') }}" alt="Article Image">
+                                src="{{ asset('website/assets/Manhattan Logo/LOGO.png') }}" alt="Article Image">
 
                         </div>
                         <div class=" d-flex justify-content-between">
@@ -100,7 +100,7 @@
                                 class="w-100 d-lg-flex d-sm-block ml-sm-5 ml-lg-0 justify-content-between align-items-center">
                                 <div class="logo1 ">
                                     <img class="object-fit-cover  rounded" width="100px" onContextMenu="return false;"
-                                        src="{{ asset('website/assets/Manhattan Logo/LOGO .png') }}"
+                                        src="{{ asset('website/assets/Manhattan Logo/LOGO.png') }}"
                                         alt="Article Image">
 
                                 </div>
@@ -134,37 +134,22 @@
                                             Article
                                         </button>
                                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="{{ route('home') }}">Manhattan, New York
-                                                city</a>
-                                            <a class="dropdown-item" href="{{ route('times_square') }}">Times
-                                                Square,
-                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('home') }}">Manhattan, New York city</a>
+                                            <a class="dropdown-item" href="{{ route('times_square') }}">Times Square, NYC</a>
                                             <a class="dropdown-item" href="{{ route('vessel') }}">Vessel, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('rockefeller') }}">Rockefeller
-                                                Center,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('one_world') }}">One World,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('charging_bull') }}">Charging
-                                                Bull,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('wall_street') }}">Wall
-                                                Street,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('little_island') }}">Little
-                                                Island,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('centra_park') }}">Centra
-                                                Park,
-                                                NYC</a>
-                                            <a class="dropdown-item" href="{{ route('highline') }}">
-                                                Highline,
-                                                NYC</a>
-                                            <a class="dropdown-item"
-                                                href="{{ route('united_nations_headquarters') }}">
-                                                United, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">
-                                                Statue, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('one_world') }}">One World, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('rockefeller') }}">Rockefeller Center, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('charging_bull') }}">Charging Bull, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('wall_street') }}">Wall Street, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('little_island') }}">Little Island, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('centra_park') }}">Centra Park, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('south_street') }}">South Street, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">Statue, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('brooklyn_bridge') }}">Brooklyn Bridge, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">Statue, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('edge') }}">Edge, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('highline') }}"> Highline, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('united_nations_headquarters') }}">United, NYC</a>
                                         </div>
                                     </div>
                                     <form class="form-inline">

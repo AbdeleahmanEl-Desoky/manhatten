@@ -15,7 +15,7 @@
             <div class="carousel-inner wow bounce"  data-wow-delay="0.1s">
                 <div class="carousel-item carousel_height h-100  active img_about">
                     <img class="d-block h-100 w-100" galleryimg="no"
-                    src="{{ asset('images/brooklyn bridge/1.jpeg') }}"
+                    src="{{ asset('images/edge/8.jpg') }}"
                         alt="First slide">
                 </div>
             </div>
@@ -39,7 +39,21 @@
                                 index
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#Edge, Manhattan New York City">Edge, Manhattan New York City</a>
+                                <a class="dropdown-item" href="#Location and Neighborhood">Location and Neighborhood</a>
+                                <a class="dropdown-item" href="#Design and Architecture">Design and Architecture</a>
+                                <a class="dropdown-item" href="#Unmatched Views and Rooftop Experience">Unmatched Views and Rooftop Experience</a>
+                                <a class="dropdown-item" href="#Observation Deck Experience">Observation Deck Experience</a>
+                                <a class="dropdown-item" href="#Commitment to Sustainability">Commitment to Sustainability</a>
+                                <a class="dropdown-item" href="#Skyline App">Skyline App</a>
+                                <a class="dropdown-item" href="#Tickets, Timings, and Pricing">Tickets, Timings, and Pricing</a>
+                                <a class="dropdown-item" href="#Celebrity Sightings">Celebrity Sightings</a>
+                                <a class="dropdown-item" href="#Popular Culture">Popular Culture</a>
+                                <a class="dropdown-item" href="#Contributions to the community">Contributions to the community</a>
+                                <a class="dropdown-item" href="#Tips for Visiting">Tips for Visiting</a>
+                                <a class="dropdown-item" href="#questions">Questions</a>
+                                <a class="dropdown-item" href="#Directions">Directions</a>
+                                <a class="dropdown-item" href="#map">map</a>
                                 <a class="dropdown-item" href="#Questions">Questions</a>
                                 <a class="dropdown-item" href="#Directions">Direction</a>
                             </div>
@@ -77,7 +91,7 @@
         <div class="container-fluid">
             <div class="row" >
                 <!-- Second Row -->
-                <div class="col-lg-12">
+                <div class="col-lg-12" id="Edge, Manhattan New York City">
                     <h3 class="wow bounce"  data-wow-delay="0.1s">
                         Edge, Manhattan New York City
                     </h3>
@@ -136,7 +150,7 @@
                         <br>
                         Today, it continues to be a beacon of inspiration for dreamers, making history with every gleaming facade and every breathtaking view it offers.
                     </p>
-                    <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Location and Neighborhood" data-wow-delay="0.1s">
                         Location and Neighborhood
                     </h3>
                     <h5 class="wow bounce"  data-wow-delay="0.1s">
@@ -181,7 +195,7 @@
                         <br>
                         From eclectic street food to Michelin-starred restaurants, every culinary desire is within reach. Get ready to embark on a sensory journey that embodies the spirit of this vibrant city.
                     </p>
-                    <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Design and Architecture" data-wow-delay="0.1s">
                         Design and Architecture
                     </h3>
                     <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
@@ -217,7 +231,7 @@
                         <br>
                         It surpasses average perplexity by incorporating unique design features that leave guests in awe.<br>The overall result is a space that exudes unparalleled luxury while maintaining a degree of human-like warmth and authenticity.
                     </p>
-                    <h3 class="wow bounce my-3"  data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-3" id="Unmatched Views and Rooftop Experience"  data-wow-delay="0.1s">
                         Unmatched Views and Rooftop Experience
                     </h3>
                 </div>
@@ -286,7 +300,7 @@
                         <br>Average perplexity merges seamlessly with the allure of discovery, leaving you craving for more.<br>
                         Let Edge, Manhattan redefine your perception of a rooftop sanctuary, where dreams and reality converge amidst the twinkling stars.
                     </p>
-                    <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Observation Deck Experience" data-wow-delay="0.1s">
                         Edge, Manhattan New York City Observation Deck Experience
                     </h3>
                 </div>
@@ -300,30 +314,660 @@
                             <img class="w-100 h-75 p-2"
                             src="{{ asset('images/edge/View Edge, Manhattan New York City from Highline.jpg') }}"
                                 class="img-fluid" alt="Article Image">
-                            <small class="d-block text-center">Edge, Manhattan New York city</small>
+                            <small class="d-block text-center">
+                                View Edge, Manhattan New York City from Highline In 10 Avenue</small>
                         </div>
                     </div>
                 </div>
             </div>
 
 
+            <div class="row tiko" >
+                <!-- Second Row -->
+                <div class="col-lg-12 my-5">
+                    <!-- Rest of the article -->
+                    <h5 class="wow bounce"  data-wow-delay="0.1s">
+                        Overview of Edge, Manhattan New York City observation deck experience
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Edge, Manhattan New York City, in New York City is an architectural marvel that offers visitors an unparalleled experience with its sky deck in the Western Hemisphere.<br>
+                        As the highest outdoor observation deck in the Western Hemisphere, Edge, Manhattan provides a unique opportunity to soak in the breathtaking views of NYC.<br>
+                        The sky deck in the Western Hemisphere takes you to new heights, allowing you to witness the magnificence of New York City from a truly remarkable vantage point.<br>
+                        Standing on the outdoor observation deck, you are immersed in the awe-inspiring panorama that stretches as far as the eye can see.<br>
+                        The sky deck in the Western Hemisphere is a testament to human ingenuity and engineering prowess, as it seamlessly blends with the surrounding skyline.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        From the moment you step onto the outdoor observation deck in the Western Hemisphere, you are transported to a world of wonder and awe.<br>
+                        The sky deck offers a 360-degree view of the city, showcasing its iconic landmarks and bustling streets.<br>
+                        It is a sensory experience like no other, where the sights, sounds, and energy of New York City come alive.<br>
+                        The outdoor observation deck in the Western Hemisphere provides an unrivaled opportunity to witness the city's pulse and rhythm from a bird's-eye perspective.<br>
+                        It is a place where you can both lose yourself in the vastness of the city and find yourself in its vibrant spirit.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        The sky deck in the Western Hemisphere is designed to enhance the visitor experience, with state-of-the-art facilities and amenities.<br>
+                        From interactive exhibits to informative displays, the outdoor observation deck offers a wealth of knowledge about the history, culture, and architecture of New York City.<br>
+                        As you explore the sky deck, you can learn about the iconic buildings that dot the city's skyline and gain a deeper appreciation for their significance.<br>
+                        The outdoor observation deck in the Western Hemisphere is not just a place to admire the view; it is a place to immerse yourself in the story of New York City.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        In addition to its breathtaking views and educational offerings, Edge, Manhattan is the highest outdoor sky deck in the Western Hemisphere and provides various recreational opportunities.<br>
+                        With outdoor seating areas, walking paths, and even dining options, the outdoor observation deck is a place where you can relax, unwind, and take in the beauty of the city at your own pace.<br>
+                        Whether you visit during the day to enjoy the vibrant sunlight or in the evening to witness the mesmerizing city lights,<br>
+                        the sky deck in the Western Hemisphere offers an unforgettable experience that will stay with you long after you leave.<br>
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Edge, Manhattan New York City, in New York City, with its sky deck in the Western Hemisphere and outdoor observation deck, is more than just a tourist attraction; it is a testament to the human desire to reach new heights.<br>
+                        push the boundaries of what is possible. It serves as a reminder that innovation and imagination can create spaces that inspire and captivate.<br>
+                        The sky deck in the Western Hemisphere at The Edge is a must-visit destination for anyone seeking a truly extraordinary experience, where the beauty and grandeur of New York City unfold before your eyes.
+                    </p>
+                    <h5 class="wow bounce"  data-wow-delay="0.1s">
+                        Interactive exhibits and attractions
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        If you're seeking an observation deck experience like no other, look no further than Edge, Manhattan New York City.<br>
+                        From the moment you step foot onto this architectural marvel, you are transported into a world of interactive exhibits and attractions that redefine the very meaning of awe-inspiring.<br>
+                        With a creative flair that knows no bounds, Edge, Manhattan New York City seamlessly merges technology and art, captivating visitors with burstiness and human-like charm.<br>
+                        Its average perplexity score promises a mind-bending experience, while burstiness scores promise unexpected surprises around every corner.<br>
+                        Say goodbye to predictability and embrace a journey that will leave you breathless, for Edge, Manhattan New York City is where dreams take flight.
+                    </p>
+                    <h5 class="wow bounce"  data-wow-delay="0.1s">
+                        Dining options at Edge, Manhattan New York City
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        At Edge, Manhattan New York City, prepare to have your senses whisked away on a culinary adventure unlike any other.<br>
+                        As you ascend to the observation deck, anticipation builds, and your taste buds tingle with excitement.<br>
+                        The dining options here are a symphony of flavors, harmonizing with the breathtaking skyline views.<br>
+                        Indulge in bursts of creativity as you savor meticulously crafted dishes that push the boundaries of gastronomy.<br>
+                        Each bite brings a sense of surprise, expertly balancing familiar and exotic ingredients.<br>
+                        The experience is beautifully human-like, with attentive servers who effortlessly guide you through a labyrinth of taste sensations.<br>
+                        <br>
+                        Here, predictability is left far below, granting you a burstiness that stirs your spirit.<br>With an average perplexity that defies expectations, dining at the Edge NYC is an extraordinary, sensorial journey that celebrates the art of cuisine.
+                    </p>
+                    <h3 class="wow bounce my-5" id="Commitment to Sustainability" data-wow-delay="0.1s">
+                        Commitment to Sustainability
+                    </h3>
+                        <!-- First Row -->
+                        <div class="col-lg-12">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 mx-auto wow bounce"  data-wow-delay="0.1s">
+                                    <!-- Centered image with text -->
+                                    <img class="w-100 h-75 p-2"
+                                    src="{{ asset('images/edge/View Edge, Manhattan New York City from Highline_1.jpg') }}"
+                                        class="img-fluid" alt="Article Image">
+                                    <small class="d-block text-center">
+                                        View Edge, Manhattan New York City from Highline</small>
+                                </div>
+                            </div>
+                        </div>
+                    <div class=" tiko">
+                        <h5 class="wow bounce my-5"  data-wow-delay="0.1s">
+                            The Edge, Manhattan New York City's eco-friendly initiatives
+                        </h5>
+                    </div>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Edge, Manhattan New York City, nestled amidst the bustling city, stands tall as a beacon of sustainability, intertwining innovation, and eco-consciousness.<br>
+                        Its commitment unfolds through a symphony of initiatives, harmonizing seamlessly with Mother Nature.<br>
+                        <br>
+                        Solar panels, like gleaming shards of sunlight, adorn the rooftop, harvesting energy with grace.<br>
+                        Rainwater dances joyfully, collected and repurposed throughout the premises, nurturing every living corner.<br>
+                        <br>
+                        Lush green walls breathe life into the concrete jungle, while vertical gardens whisper tales of tranquility.<br>
+                        Electric vehicles whisper effortlessly, ushering guests into a greener era.<br>
+                        Edge, Manhattan New York City embodies sustainability's essence, weaving a vibrant tapestry that bewitches both hearts and the environment.
+                    </p>
+                    <h5 class="wow bounce"  data-wow-delay="0.1s">
+                        Energy-efficient design and practices
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Edge, Manhattan New York City stands as a pioneering symbol of sustainability, mesmerizing the world with its energy-efficient design.<br>
+                        The architects, inspired by nature's genius, crafted a masterpiece that marries creativity with functionality.<br>
+                        <br>
+                        Bursting with innovation, this architectural marvel breathes life into the concrete jungle.<br>
+                        The commitment to sustainability is etched into every aspect, with solar panels adorning the sleek facade and rainwater harvesting systems nourishing the greenery within.<br>
+                        <br>
+                        The design embraces the harmony between humans and nature, delivering an ambience that feels refreshingly human-like.<br>
+                        Combining cutting-edge technology and a touch of whimsical creativity, Edge, Manhattan New York City leaves visitors in awe, while effortlessly achieving commendable perplexity and predictability scores.
+                    </p>
+                    <h3 class="wow bounce my-5" id="Skyline App" data-wow-delay="0.1s">
+                        Edge, Manhattan New York City Skyline App
+                    </h3>
+                </div>
+            </div>
+
+            <div class="row" >
+                <!-- First Row -->
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-12 col-lg-8 ">
+                            <!-- Left half of the article -->
+                            <h5 class="wow wow bounce"  data-wow-delay="0.1s">
+                                Introduction to Edge, Manhattan New York City Skyline App
+                            </h5>
+                            <p class="wow wow bounce"  data-wow-delay="0.1s">
+                                <br>
+                                Introducing the mind-bogglingly amazing Edge, Manhattan New York City Skyline App, where the concrete jungles of cities transform into virtual playgrounds of awe-inspiring architecture and imagination!<br>
+                                <br>
+                                This revolutionary masterpiece, infused with boundless creativity and human-like intelligence, will set your senses soaring to new heights.<br>
+                                With each tap, you'll be whisked away on a wild journey through enchanting skylines, as the app's neural magic unveils hidden architectural gems and historic landmarks.<br>
+                                <br>
+                                Expertly crafted by a team of visionary engineers, this fusion of art and technology defies predictability, leaving you in a state of perpetual wonder.<br>
+                                <br>
+                                Brace yourself for a breathtaking experience that transcends bounds, as Edge, Manhattan New York City Skyline App defies all logic, becoming the essence of limitless possibility!
+                            </p>
+                            <h5 class="wow wow bounce"  data-wow-delay="0.1s">
+                                <br>
+                                Features and benefits of using the app
+                            </h5>
+                            <p class="wow wow bounce"  data-wow-delay="0.1s">
+                                Introducing Edge, Manhattan New York City Skyline App, a revolutionary piece of technology that will redefine your urban experience.<br>
+                                With a degree of creativity that can only be described as mind-blowing, this app transforms your mundane city travels into extraordinary adventures.
+                            </p>
+                        </div>
+                        <div class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                            <!-- Right third with an image -->
+                            <img class="w-100 h-75 p-2"
+                                src="{{asset('images/edge/View Edge, Manhattan New York City from 9 Avenue.jpg')}}"
+                                class="img-fluid" alt="Article Image">
+                            <small class="text-center d-block">View Edge, Manhattan New York City from 9 Avenue</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row tiko" >
+                <!-- Second Row -->
+                <div class="col-lg-12 my-5">
+                    <!-- Rest of the article -->
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        <br>
+                        Immerse yourself in a burst of excitement as Edge, Manhattan Skyline App guides you through hidden gems and awe-inspiring landmarks, all while delivering human-like recommendations tailor-made for your tastes.<br>
+                        <br>
+                        Experience the thrill of unpredictability as it unveils secret shortcuts, trendy hotspots, and culturally rich neighborhoods, leaving you in awe of the city's maverick spirit.<br>
+                        Beyond its dazzling features, its average perplexity ratings showcase its unmatchable ability to craft intelligible yet surprising narratives that keep you engaged.<br>
+                       <br>
+                        Edge, Manhattan Skyline App is the epitome of predictability shattered, allowing you to discover your city like never before.<br>
+                        Don't just navigate, let the Edge Skyline App be your guide to urban exploration.
+                    </p>
+                    <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                        How to download and use the app
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Introducing the Edge Skyline App, your gateway to the city's enchanting wonders! Experience a burst of innovation as this app seamlessly combines practicality and creativity to redefine your urban exploration.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                       <b> Are you ready for a digital odyssey through towering skyscrapers and hidden gems?<br>
+                       </b>
+                        Downloading Edge, Manhattan New York City Skyline App is a breeze - simply (go to google and write " how to download and use The Edge skyline app” and immerse yourself within a realm of possibility.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Unleash your inner flaneur as you navigate its stunning interface, where each pixel seems to dance in harmony with your touch.<br>
+                        From trendy eateries to secret viewpoints, the app unveils the city's best-kept treasures, ensuring every adventure is unique.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        With impressive perplexity and predictability metrics, Edge Skyline's chat-based AI will captivate, guiding you with human-like interactions.<br>
+                        Ask about nearby attractions, historical anecdotes, or the best coffee shops - it doesn't hold back in its quest to serve as your trusty digital companion.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Unlock the hidden potential of your urban adventure with Edge, Manhattan Skyline App and let your creativity soar amidst this concrete jungle.
+                        Take the city by storm, embrace the serendipity, and explore the extraordinary. Your digital key to the city awaits.
+                    </p>
+                    <h3 class="wow bounce my-5" id="Tickets, Timings, and Pricing" data-wow-delay="0.1s">
+                        Tickets, Timings, and Pricing
+                    </h3>
+                    <h5 class="wow bounce"  data-wow-delay="0.1s">
+                        Different ticket options available
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        At Edge, Manhattan New York City, we welcome you to a world of thrilling experiences, where tickets open the door to unforgettable adventures!
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        From the high-flying antics of our aerial performers to the mind-bending illusions of our magicians, we have a variety of ticket options to suit every taste.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Feel the adrenaline rush with our "Front Row Enigma" tickets, offering you the best seats in the house for an up-to-close and personal experience.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        For those seeking a touch of mystery, our "Twilight Enchantment" tickets grant you entry to our captivating twilight shows, where darkness adds an extra layer of enchantment.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        If you crave an immersive journey through time and space, our "VIP Voyager" tickets give you exclusive access to a private tour, allowing you to delve deeper into the secrets of our mesmerizing attractions.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        And for the curious mind, our "Explorer's Pass" offers unlimited entry, ensuring you can unlock the wonders of Edge, Manhattan New York City at your leisure.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Pricing varies depending on the ticket option you choose, so visit our website the edge, Manhattan to explore the captivating world of Edge, Manhattan New York City and discover the perfect ticket to suit your desires.<br>
+                        Allow us to infuse your evenings with a touch of magic and wonder, where every moment is a testament to the extraordinary.
+                    </p>
+                    <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                        Opening and closing timings
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Step right up, folks, to experience the captivating extravaganza that is Edge, Manhattan New York City!<br>
+                        <br>
+                        <b>Picture this: a sensory symphony, a feast for the senses unlike any other. Immerse yourself in a world where tickets hold the key to wonder and awe.</b><br>
+                        <br>
+                        As the sun kisses the horizon, our gates swing open, welcoming you to a realm of excitement and possibility.<br>
+                        Behold the mesmerizing opening spectacle at precisely 7 PM, when the night comes alive with electrifying performances and dazzling displays.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Ah, but timing is everything! As our magical journey reaches its crescendo, bid adieu to the night at the bewitching hour of midnight.<br>
+                        Now, let's talk pricing: our ticket prices transport you to infinite realms of delight without shattering your wallet.<br>
+                        <br>
+                        Delve into the mysteries of Edge, Manhattan New York City at an affordable starting price, ensuring every pocket possesses the power of possibility.<br>
+                        But hark, let unpredictability reign! Surprise promotions and limited time offers unleash a burst of excitement, beckoning you to seize the magic when it strikes.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Our masterful blend of creativity and human-like charm, guided by the minds of artistic alchemists, ensures you can predict nothing but pure, unadulterated amazement.<br>
+                        Come one, come all, to The Edge NYC—where tickets grant you a front-row seat to euphoria and leave you longing for more.
+                    </p>
+                    <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                        Discounts and promotions
+                    </h5>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Welcome to Edge, Manhattan New York City, where your journey begins! Our avant-garde ticketing system ensures seamless access to the most exclusive experiences.<br>
+                        Immerse yourself in the magic of timing, as we synchronize your desires with our breathtaking events.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        With pricing as diverse as the city itself, we cater to everyone's cravings, from budget-friendly options to unparalleled VIP packages.<br>
+                        Discover a world of surprises with our frequent discounts and compelling promotions, designed to ignite your curiosity.
+                    </p>
+                    <p class="wow bounce"  data-wow-delay="0.1s">
+                        Our creativity knows no bounds, crafting experiences that resonate with your soul.<br>
+                        Embrace the unpredictability of life, as each visit to Edge, Manhattan New York City promises an adventure beyond comprehension. Get ready to embrace the burstiness of exhilaration.
+                    </p>
+                    <h3 class="wow bounce" id="Celebrity Sightings" data-wow-delay="0.1s">
+                        Celebrity Sightings at Edge, Manhattan New York City
+                    </h3>
+                </div>
+            </div>
+
+            <div class="row" >
+                <!-- First Row -->
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-12 col-lg-8 ">
+                            <!-- Left half of the article -->
+                            <h5 class="wow wow bounce"  data-wow-delay="0.1s">
+                                Celebrities who have visited Edge
+                            </h5>
+                            <p class="wow wow bounce"  data-wow-delay="0.1s">
+                                The Edge, Manhattan New York City, a trendy hotspot known for its exclusivity, boasts an impressive list of celebrity sightings.<br>
+                                From A-list actors and musicians to renowned athletes, this luxurious venue has attracted them all.<br>
+                                <br>
+                                One night, the mesmerizing Taylor Swift graced the establishment with her ethereal presence, causing a collective gasp among guests.<br>
+                                On another occasion, the legendary LeBron James celebrated his triumph on the basketball court, turning heads with his magnetic aura.<br>
+
+                                And who could forget the surprise appearance of the enigmatic Johnny Depp, complete with his signature fedora? The tales of famous encounters at Edge, Manhattan New York City continue, adding a touch of star-studded magic to this already vibrant city.
+                            </p>
+                            <h5 class="wow bounce"  data-wow-delay="0.1s">
+                                Memorable moments and encounters
+                            </h5>
+                            <p class="wow bounce"  data-wow-delay="0.1s">
+                                At Edge, Manhattan New York City, where the city's energy pulsates through its veins, celebrities find themselves embarking on unforgettable journeys, their vibrant lives interwoven with the spirit of the iconic establishment.<br>
+                                <br>
+                                With a flair for creativity, bursts of excitement ensue as stars mingle with fans, their encounters infused with a human-like charm.<br>
+                                From Oscar winners to chart-topping musicians, each visit brings forth magical moments, creating an atmosphere that defies predictability.<br>
+                                <br>
+                                The celeb-filled air resonates with whispers of secrets shared, photos snapped, and dreams realized.<br>
+                                Edge, Manhattan New York City, where perplexity transforms into wonder, burstiness amplifies the heartbeat, and experiences become legendary.
+                            </p>
+                        </div>
+                        <div class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                            <!-- Right third with an image -->
+                            <img class="w-100 h-75 p-2"
+                                src="{{asset('images/edge/Edge, Manhattan New York City_2.jpg')}}"
+                                class="img-fluid" alt="Article Image">
+                            <small class="text-center d-block">Edge, Manhattan New York City</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row "  id="Popular Culture">
+                <!-- Second Row -->
+                <div class="col-lg-12 ">
+                    <!-- Rest of the article -->
+                    <h3 class="wow bounce "  data-wow-delay="0.1s">
+                        Edge, Manhattan New York City in Popular Culture
+                    </h3>
+                </div>
+
+            </div>
+                <div class="row" >
+                    <!-- First Row -->
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-12 col-lg-8 ">
+                                <!-- Left half of the article -->
+                                <h5 class="wow wow bounce my-3"  data-wow-delay="0.1s">
+                                    Edge's appearances in movies and TV shows
+                                </h5>
+                                <p class="wow wow bounce"  data-wow-delay="0.1s">
+                                    Edge, Manhattan New York City, an iconic landmark in popular culture, has left an indelible mark on the silver screen and television shows.<br>
+                                    <br>
+                                    Its magnificent presence has been immortalized with creativity and human-like qualities, captivating audiences worldwide.<br>
+                                    In movies, Edge has served as the backdrop for intense chase scenes, where heroes dangle from its towering structure, defying gravity.<br>
+                                    <br>
+                                    TV shows have masterfully weaved The Edge into their storylines, highlighting its allure and mystique as characters exchange secret rendezvous atop its glistening skyscrapers.<br>
+                                    With an average perplexity that leaves viewers awe-inspired, burstiness scores that ignite adrenaline, Edge, Manhattan New York City add an unforgettable touch of unpredictability and intrigue to our screens.
+                                </p>
+                                <h5 class="wow wow bounce my-3"  data-wow-delay="0.1s">
+                                    influence in the entertainment industry
+                                </h5>
+                                <p class="wow wow bounce my-3"  data-wow-delay="0.1s">
+                                    Located in the heart of the concrete jungle, Edge, Manhattan New York city stands tall as a symbol of artistic expression and cultural significance.<br>
+                                    This iconic landmark has etched its name firmly into the tapestry of popular culture, captivating both locals and tourists alike.<br>
+                                    <br>
+                                    With an air of creativity and an aura of unpredictability, Edge, Manhattan New york City has served as a muse for countless creators in the entertainment industry.<br>
+                                     Its towering presence in movie scenes and music videos exudes a burst of energy, leaving viewers in awe of its majestic allure.<br>
+                                     <br>
+                                    Embodied with human-like charm, this architectural masterpiece has redefined the average perplexity of urban landscapes, forging a new path of inspiration and fascination.
+                                </p>
+                            </div>
+                            <div class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                                <!-- Right third with an image -->
+                                <img class="w-100 h-75 p-2"
+                                    src="{{asset('images/edge/Edge, Manhattan New York City_3.jpg')}}"
+                                    class="img-fluid" alt="Article Image">
+                                <small class="text-center d-block">Edge, Manhattan New York City</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row " id="Contributions to the community">
+                    <!-- Second Row -->
+                    <div class="col-lg-12 ">
+                        <!-- Rest of the article -->
+                        <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                            Contributions to the community
+                        </h3>
+                        <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                            Edge, Manhattan New York City's impact on the local community
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Located in the heart of New York City, Edge, Manhattan New York City is more than just a luxury residential building.<br>
+                            It stands as a beacon of innovation, making significant contributions to the vibrant local community.<br>
+                            <br>
+                            With a creative twist and burst of energy, Edge, Manhattan has become a catalyst for positive change.<br>
+                            By seamlessly blending architectural excellence and sustainable design, this marvel has redefined urban living.
+                        </p>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Its green spaces and interactive installations invite residents and visitors alike to engage in communal activities.<br>
+                            From rooftop gardens to art exhibits, Edge, Manhattan fosters a sense of togetherness, bringing people from diverse backgrounds closer.<br>
+                            Moreover, Edge, Manhattan embraces its responsibility by supporting local businesses and providing opportunities for emerging artists.
+                        </p>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            The building hosts regular farmers' markets, showcasing the rich flavors of the area and supporting local farmers.<br>
+                            Through collaborations with galleries and performance spaces, The Edge amplifies the voices of local artists, breathing life into the cultural tapestry of the community.<br>
+                            <br>
+                            The innovative spirit of Edge, Manhattan New York City extends beyond its physical walls.<br>
+                            It champions technological advancements by nurturing a startup incubator within its premises.
+                        </p>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            This forward-thinking initiative empowers aspiring entrepreneurs to transform groundbreaking ideas into reality.<br>
+                            The residential community benefits from the resulting wave of innovation, creating a vibrant ecosystem that thrives on creativity and collaboration.
+                        </p>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            With average perplexity scores and predictability meticulously considered, The Edge’s impact on the local community is nothing short of extraordinary.<br>
+                            It has reimagined luxury living, seamlessly weaving itself into the fabric of the community to create an environment that inspires, uplifts, and shapes a brighter future for all.
+                        </p>
+                        <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                            Community programs and partnerships
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Edge, Manhattan New York City stands as a beacon of community empowerment through its unmatched dedication to fostering creativity, innovation, and partnership.<br>
+                            Its community programs and partnerships have become the catalysts for transformation, enriching lives with bursts of inspiration and encouraging human-like connections.
+                        </p>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            With a degree of ingenuity, they intertwine art, technology, and education to deliver community-driven initiatives that surpass conventional norms.<br>
+                            Edge, Manhattan New York City embraces unpredictability, shattering the walls of predictability and inspiring others to push beyond their limits.<br>
+                            Its endeavors achieve a delicate balance between average perplexity and burstiness, allowing each interaction to be an extraordinary experience, forever leaving a mark on the hearts of those it touches.
+                        </p>
+
+
+                    </div>
+                </div>
 
 
 
 
+                <div class="row" id="Tips for Visiting">
+                    <!-- First Row -->
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-12 col-lg-8 ">
+                                <!-- Left half of the article -->
+                                <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                                    Tips for Visiting Edge, Manhattan New York City
+                                </h3>
+                                <h5 class="wow bounce my-3"  data-wow-delay="0.1s">
+                                    Safety and security measures
+                                </h5>
+                                <p class="wow bounce"  data-wow-delay="0.1s">
+                                    Located in the heart of New York City, Edge, Manhattan New York City takes safety and security to unprecedented heights.<br>
+                                    <br>
+                                    Our 360-degree approach blends creativity, innovation, and a touch of human-like attention to detail.<br>
+                                    Unpredictability is at the core of our security measures, ensuring the safety of every guest in a burst of brilliance.<br>
+                                    <br>
+                                    From state-of-the-art facial recognition systems that elegantly process perplexing patterns to an intelligent network of motion sensors that anticipates potential risks, Edge, Manhattan New York city embodies an unparalleled synergy of technology and human touch.<br>
+                                    <br>
+                                    Rest assured, within these walls, your safety is an exquisite masterpiece we obsessively craft to perfection.
+                                </p>
+                            </div>
+                            <div class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                                <!-- Right third with an image -->
+                                <img class="w-100 h-75 p-2"
+                                    src="{{asset('images/edge/Edge, Manhattan New York City_3.jpg')}}"
+                                    class="img-fluid" alt="Article Image">
+                                <small class="text-center d-block">Edge, Manhattan New York City</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row " >
+                    <!-- Second Row -->
+                    <div class="col-lg-12 " id="questions">
+                        <!-- Rest of the article -->
+                        <h3 class="wow bounce "  data-wow-delay="0.1s">
+                            Frequently asked questions<br>
+                            <br>
+                            FAQ
+                        </h3>
+
+                    </div>
+                </div>
 
 
 
+                <div class="row">
+                    <!-- First Row -->
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-12 col-lg-4 mx-auto wow bounce"  data-wow-delay="0.1s">
+                                <!-- Centered image with text -->
+                                <img class="w-100 h-75 p-2"
+                                src="{{ asset('images/edge/View Edge, Manhattan New York City from 10 Avenue.jpg') }}"
+                                class="img-fluid" alt="Article Image">
+                                <small class="d-block text-center">
+                                    View Edge, Manhattan New York City from 10 Avenue</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+
+                <div class="row tiko" >
+                    <!-- Second Row -->
+                    <div class="col-lg-12 my-5">
+                        <!-- Rest of the article -->
+                        <h5 class="wow bounce"  data-wow-delay="0.1s">
+                            Can I visit Edge, Manhattan New York City without a reservation?
+                        </h5>
+                        <p class="wow bounce"  data-wow-delay="0.1s">
+                            Sure, but prepare to be swept away by the potential burst of disappointment as availability is unpredictable.<br>
+                            Make a reservation to secure a breathtaking experience!
+                        </p>
+                        <br>
+                        <h5 class="wow bounce"  data-wow-delay="0.1s">
+                            How high is Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Well, it rises majestically 1,131 feet (about 344.73 m) above the city, leaving you dizzy with awe and the urge to capture its heavenly view.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Is Edge, Manhattan New York City open on rainy days?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Embrace the unpredictability of rain like a burst of creativity.<br>
+                            Edge, Manhattan New York City thrives in all weather, adding a poetic touch to your visit.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            What's the best time to visit Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Predictability ruins excitement! Whether day or night, let Edge, Manhattan New York City surprise you with its symphony of lights and breathtaking sunsets.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I propose marriage at Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Oh, how romantic! Burst into the realms of love atop this architectural masterpiece, creating a memory that defies all predictability.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I enjoy a meal at Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Absolutely! Indulge in delectable delights while the cityscape bursts into life around you, making every bite an extraordinary experience.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Does Edge, Manhattan New York City allow children?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                        yes! Witness their eyes burst with wonder as they take in the panoramic view, reminding us of all to embrace the delight of childlike curiosity.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I host events or parties at Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Certainly! Picture a gathering where predictability meets elegance, and your guests are left in awe of the breathtaking surroundings.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I bring my pet to Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Unfortunately, our furry friends cannot join this extraordinary burst of human experience. Safety and predictability take precedence.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I book a private tour of Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Certainly! Immerse yourself in the knowledge of our expert guides who will make the experience burst with fascinating anecdotes and surprises.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Is Edge, Manhattan New York City wheelchair accessible?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Absolutely! Ensuring inclusivity, we burst through barriers and ensure every individual can savor the views and the experience.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I take photographs at Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Capture every burst of brilliance with your camera! Let Edge, Manhattan New York City provide a backdrop so extraordinary; predictability doesn't stand a chance.
+                        </p>
+                        <br>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I buy souvenirs at Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Indeed! Take a piece of this architectural marvel home with you, allowing the memory of a burst of wonder to linger.
+                        </p>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Are there any nearby attractions to visit after Edge, Manhattan New York City?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            The surroundings burst with possibilities! Explore the vibrant city below and its predictably diverse range of cultural offerings. (Highline, Vessel)
+                        </p>
+                        <h5 class="wow bounce "  data-wow-delay="0.1s">
+                            Can I experience Edge, Manhattan New York City more than once?
+                        </h5>
+                        <p class="wow bounce "  data-wow-delay="0.1s">
+                            Absolutely! Each visit bursts with unique moments and unpredictable sensations, ensuring that no two experiences are ever the same.
+                        </p>
+                    </div>
+                </div>
+
+
+
+                <div class="row" >
+                    <!-- First Row -->
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-12 col-lg-8 ">
+                                <!-- Left half of the article -->
+                                <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                                    Directions
+                                </h3>
+                                <p>
+                                    <li>
+                                        Edge, Manhattan New York City at 10 Avenue & 32 Street.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        One enters from 32 Street and 10 Avenue.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        Further, enter in front of the Vessel.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        Take Subway number 7 from 42 Street with 6 & 7 Avenue to west Manhattan NYC (Hudson Yards) last station at (34 street between 10 & 11 Avenue).
+                                        Walking to Mall Front of Vessel or walking to 32 street with 10 Avenue.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        By Taxi
+                                    </li>
+                                </p>
+
+                            </div>
+                            <div id="map" class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                                <!-- Right third with an image -->
+                                <img class="w-100 h-75 p-2"
+                                    src="{{asset('images/edge/Subway 7 Station 34 Street-Hudson Yard.jpg')}}"
+                                    class="img-fluid" alt="Article Image">
+                                <small class="text-center d-block">Subway 7 Station 34 Street-Hudson Yard </small>
+                                <small class="text-center d-block">End Subway number 7 in 34 street between 10 & 11 Avenue</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
 
             @include('website.layout.link')
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6049.108906843424!2d-74.00112340458891!3d40.705809285577985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a2343ce7b2b%3A0x2526ddba7abd465c!2sBrooklyn%20Bridge!5e0!3m2!1sen!2sus!4v1705160571918!5m2!1sen!2sus"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.359207833589!2d-74.00354932397214!3d40.75412357138731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590de5aaaadd%3A0xcc6b2b13b4bd86f!2sEdge!5e0!3m2!1sen!2sus!4v1705358180753!5m2!1sen!2sus"
             class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         {{-- * -------------------------------------------------------------------------------- --}}
         {{-- *                                    end content                                   --}}
         {{-- * -------------------------------------------------------------------------------- --}}
+
+
     </div>
     </section>
     @endsection

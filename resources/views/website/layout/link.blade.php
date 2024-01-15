@@ -42,6 +42,10 @@
                 src="{{ asset('website/assets/images/header/buttons/United Nations Headquarters, New York City.jpg') }}"
                 alt=""></a>
 
+        <a class="link_image" href="{{ route('edge') }}"><img class="img_header"
+            src="{{ asset('website/assets/images/header/buttons/Edge, Manhattan New York City_3.jpg') }}"
+            alt=""></a>
+
 
     </div>
 
