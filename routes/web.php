@@ -41,6 +41,7 @@ Route::get('times_square',[HomeController::class,'times_square'] )->name('times_
  Route::get('/edge', function () {return view('website.edge.edge');})->name('edge');
 Route::get('united_nations_headquarters', function () {return view('website.united_nations_headquarters.united_nations_headquarters');})->name('united_nations_headquarters');
 Route::get('Chinatown', function () {return view('website.Chinatown.Chinatown');})->name('Chinatown');
+Route::get('empire_state', function () {return view('website.empire_state.empire_state');})->name('empire_state');
 
  Route::get('italy, ', function () { return view('website.little_italy.little_italy'); })->name('little_italy');
 
