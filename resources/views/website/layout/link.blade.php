@@ -43,8 +43,11 @@
                 alt=""></a>
 
         <a class="link_image" href="{{ route('edge') }}"><img class="img_header"
-            src="{{ asset('website/assets/images/header/buttons/Edge, Manhattan New York City_3.jpg') }}"
-            alt=""></a>
+                src="{{ asset('website/assets/images/header/buttons/Edge, Manhattan New York City_3.jpg') }}"
+                alt=""></a>
+        <a class="link_image" href="{{ route('Chinatown') }}"><img class="img_header"
+                src="{{ asset('website/assets/images/header/buttons/Chinatown, Manhattan New York city.jpg') }}"
+                alt=""></a>
 
 
     </div>
