@@ -705,7 +705,7 @@
                     <div class="col-12 col-lg-5 mx-auto video_1 ">
                         <video autoplay muted loop id="myVideo_1">
                             <source class=""
-                                src="{{ asset('images/united _nations_headquarters/20210109_113926.mp4') }}"
+                                src="{{ asset('images/Highline/VOD_20230211_131930.mp4') }}"
                                 type="video/mp4">
                         </video>
                     </div>
@@ -1235,7 +1235,7 @@
                     <div class="col-12 col-lg-5 mx-auto video_1 ">
                         <video autoplay muted loop id="myVideo_1">
                             <source class=""
-                                src="{{ asset('images/united _nations_headquarters/20210109_113926.mp4') }}"
+                                src="{{ asset('images/Highline/VOD_20230211_133609.mp4') }}"
                                 type="video/mp4">
                         </video>
                     </div>
@@ -1247,7 +1247,7 @@
                 <div class="row ">
                     <div class="col-12 col-lg-5 mx-auto video_1 ">
                         <video autoplay muted loop id="myVideo_1">
-                            <source class="" src="{{ asset('images/manhattan/20210724_193618.mp4') }}"
+                            <source class="" src="{{ asset('images/Highline/VOD_20230211_133826.mp4') }}"
                                 type="video/mp4">
                         </video>
                     </div>
@@ -1265,11 +1265,6 @@
                         Highline New York City, however, is more than simply a lovely promenade; it is also bordered by a
                         wide range of modern art galleries, which give the neighborhood a distinctively artistic and
                         cultural feel.<br><br>
-
-
-
-
-
                     </p>
                     <p class="wow bounce px-3 " data-wow-delay="0.1s">
                         The Gagosian Gallery, which is in the upscale Chelsea district, is one of the galleries close to

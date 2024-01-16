@@ -3,21 +3,22 @@
 
 <!-- Basic -->
 <meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="imagetoolbar" content="no" />
 <!-- Mobile Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<title>Manhattan New York</title>
 <!-- Site Metas -->
 @yield('title')
-<meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="keywords" content="Manhattan, New York City, nyc, manhattan-nycwalk">
+<meta name="description" content="Information about Manhattan, NYC, museum, theaters, famous places and buildings like Times Square, Rockefeller center, one world trade center, Brooklyn bridge, statue of Liberty,also parks and more.">
 <meta name="author" content="">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     integrity="sha384-LC5KX6bLq7r0MPQ6rC90qF0aPGo/jA9a27d1v4vpl3z6lFkvww5Y2K6RuzQa6aV" crossorigin="anonymous">
 
+<link rel="canonical" href="https://manhattan-nycwalk.com">
 
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
@@ -27,6 +28,7 @@
     <!-- Google-specific meta tags -->
     <meta name="google-site-verification"
         content="ManhattanNycwalk-Manhattan-nycwalk-NYC-manhattan-nycwalk-nyc-manhatten-WALK-walk-NEW-YORK-new-york-Brooklyn-brooklyn-Times-Square-TimesSquare">
+
 
     <!-- Open Graph Meta Tags for Facebook -->
     <meta property="og:title" content="Manhattan Nyc">
@@ -50,7 +52,7 @@
         "@type": "Organization",
         "name": "Manhattan Nyc",
         "url": "https://manhattan-nycwalk.com",
-        "logo": "URL to your organization's logo",
+        "logo": "https://manhattan-nycwalk.com/website/assets/Manhattan%20Logo/LOGO.png",
         "description": "Information about Manhattan, NYC, museum, theaters, famous places and buildings like Times Square, Rockefeller center, one world trade center, Brooklyn bridge, statue of Liberty,also parks and more."
     }
     </script>

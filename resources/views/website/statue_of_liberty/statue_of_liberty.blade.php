@@ -16,7 +16,7 @@
         <div id="carouselExampleIndicators" class="carousel slide img_container">
             <div class="carousel-inner">
                 <div class="carousel-item carousel_height h-100  active img_about">
-                    <img class="d-block h-100 w-100" src="{{ asset('images/South Street/1.png') }}" alt="First slide">
+                    <img class="d-block h-100 w-100" src="{{ asset('images/Statue_of_Liberty/1.png') }}" alt="First slide">
                 </div>
             </div>
         </div>
