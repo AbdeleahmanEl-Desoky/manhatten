@@ -16,7 +16,8 @@
         <div id="carouselExampleIndicators" class="carousel slide img_container">
             <div class="carousel-inner">
                 <div class="carousel-item carousel_height h-100  active img_about">
-                    <img class="d-block h-100 w-100" src="{{ asset('images/South Street/1.png') }}" alt="First slide">
+                    <img class="d-block h-100 w-100" src="{{ asset('website/assets/images/header/10.jpg') }}"
+                        alt="First slide">
                 </div>
             </div>
         </div>
@@ -42,23 +43,22 @@
                                 index
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#History">History of Statue Liberty, Manhattan New York
-                                    City</a>
-                                <a class="dropdown-item" href="#Relationship">Relationship between the Statue of Liberty,
-                                    Manhattan New York City and Ellis Island</a>
-                                <a class="dropdown-item" href="#Statue">Statue of Liberty, Manhattan New York City</a>
-                                <a class="dropdown-item" href="#Guidelines">Guidelines for visiting Ellis Island and the
-                                    Statue of Liberty, Manhattan New York City </a>
-                                <a class="dropdown-item" href="#Dining">Dining options at the Statue of Liberty, Manhattan
-                                    New York City and Ellis Island:</a>
-                                <a class="dropdown-item" href="#Gift">Gift boutiques and souvenir shops:</a>
-                                <a class="dropdown-item" href="#exhibits">Kid-friendly activities and exhibits:</a>
-                                <a class="dropdown-item" href="#Accessibility">Accessibility options on Statue of Liberty,
-                                    Manhattan New York City and Ellis Island:</a>
-                                <a class="dropdown-item" href="#Things">Things you cannot do at a state park event:</a>
-                                <a class="dropdown-item" href="#ticket">How to obtain a Battery Park ticket</a>
-                                <a class="dropdown-item" href="#Frequently">Frequently Asked Questions</a>
+                                <a class="dropdown-item" href="#Culture">Culture and lifestyle in Chinatown, Manhattan New
+                                    York City</a>
+                                <a class="dropdown-item" href="#Shopping">Shopping in Chinatown, Manhattan New York City</a>
+                                <a class="dropdown-item" href="#Important">The Famous and Important Streets in Chinatown,
+                                    Manhattan New York City</a>
+                                <a class="dropdown-item" href="#Landmarks">Landmarks and Attractions in Chinatown, Manhattan
+                                    New York City</a>
+                                <a class="dropdown-item" href="#Chinatown">Chinatown, Manhattan New York City's business
+                                    scene:</a>
+                                <a class="dropdown-item" href="#NYC'shistory">Chinatown, Manhattan New York City's role in
+                                    NYC's
+                                    history</a>
+                                <a class="dropdown-item" href="#questions">Here are the most asked questions:</a>
                                 <a class="dropdown-item" href="#Directions">Direction</a>
+
+
                             </div>
 
                         </div>
@@ -179,7 +179,7 @@
 
             {{-- parag && img --}}
             <div class="my-4 wow bounce" data-wow-delay="0.1s">
-                <h3 id="" class="ml-1 mb-5">Chinatown, Manhattan New York City explained:</h3>
+                <h3 id="Chinatown" class="ml-1 mb-5">Chinatown, Manhattan New York City explained:</h3>
                 <!-- First Row -->
                 <div class="col-12 col-lg-4 mx-auto mb-1">
                     <!-- Centered image with text -->
@@ -236,7 +236,7 @@
             </div>
             {{-- parag --}}
             <div class="wow bounce" data-wow-delay="0.1s">
-                <h3 id="">Culture and lifestyle in Chinatown, Manhattan New York City</h3>
+                <h3 id="Culture">Culture and lifestyle in Chinatown, Manhattan New York City</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2 "
@@ -535,7 +535,7 @@
             </div>
             {{-- img&&h3&&h5&&pharg --}}
             <div class="wow bounce" data-wow-delay="0.1s">
-                <h3 id="">Shopping in Chinatown, Manhattan New York City</h3>
+                <h3 id="Shopping">Shopping in Chinatown, Manhattan New York City</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2"
@@ -662,7 +662,7 @@
 
             {{-- parag --}}
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3>The Famous and Important Streets in Chinatown, Manhattan New York City</h3>
+                <h3 id="">The Famous and Important Streets in Chinatown, Manhattan New York City</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2"
@@ -803,7 +803,7 @@
                 </p>
             </div>
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3 id="">Landmarks and Attractions in Chinatown, Manhattan New York City</h3>
+                <h3 id="Landmarks">Landmarks and Attractions in Chinatown, Manhattan New York City</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2"
@@ -1295,7 +1295,7 @@
             {{-- parag --}}
 
             <div class="wow bounce" data-wow-delay="0.1s">
-                <h3 id="Chinatown">Chinatown, Manhattan New York City's role in NYC's history</h3>
+                <h3 id="NYC'shistory">Chinatown, Manhattan New York City's role in NYC's history</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2"
@@ -1509,123 +1509,101 @@
             </div>
             {{-- Qus --}}
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3 id="Frequently">Frequently Asked Questions</h3>
+                <h3 id="questions">Here are the most asked questions:</h3>
                 <h4>FAQ:</h4>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">Famous places in New York City include Ellis Island and
-                    the Statue of Liberty.<br> Since they are
-                    well-known
-                    tourist attractions, guests frequently have a ton of questions.<br>
-                    In this post, we will respond to some of the most asked questions concerning Ellis Island and the Statue
-                    of Liberty.<br>
-                </p>
-                <h5>What is the past of the Statue of Liberty, Manhattan New York City?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">On October 28, 1886, the Statue of Liberty, which was
-                    given to the United States by France, received its
-                    formal dedication.<br> Frédéric Auguste Bartholdi, a French artist, came up with the design, and Gustave
-                    Eiffel built the structure.<br> The monument is a representation of freedom and democracy.<br></p>
-                <h5>What is the height of the Statue of Liberty, Manhattan New York Citty?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">The Statue of Liberty is 305 feet (93 meters) tall,
-                    weighs 225 tons, and extends 93 meters from the base
-                    to the tip of the torch.<br> It is among the world's highest statues.<br></p>
-                <h5>Is access to the Statue of Liberty, Manhattan New York City possible?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">The Statue of Liberty may really be entered by
-                    guests.<br> However, since the events of September 11,
-                    2001,
-                    access to the crown and torch has been constrained.<br>
-                    Visitors must purchase a ticket for the Statue of Liberty National Monument, which covers both Liberty
-                    Island (where the statue is located) and Ellis Island, to enter the statue.<br>
-                </p>
-                <h5> What city is the Statue of Liberty, Manhattan New York City located in?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">From Battery Park in Lower Manhattan or Liberty State
-                    Park in New Jersey, visitors can take a ferry to
-                    the Statue of Liberty.<br>
-                    Every day, ferries run, offering access to both Liberty Island and Ellis Island.<br> To minimize lengthy
-                    waits, it is suggested that you get tickets in advance.<br>
-                </p>
-                <h5> For what is Ellis Island famous?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">From 1892 until 1954, Ellis Island served as the primary
-                    entrance point for immigrants entering the
-                    United States.<br>
-                    For countless individuals seeking a better life, it served as the entryway to America.<br> It now serves
-                    as
-                    the Ellis Island Immigration Museum, where guests may look at displays that illustrate the immigrant
-                    experience.<br>
-                </p>
-                <h5> Am I allowed to tour Ellis Island?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">Yes, guests are invited to explore Ellis Island and
-                    discover its significance and history.<br> Numerous
-                    exhibits at the immigration museum, including pictures, first-person accounts, and hands-on activities,
-                    give insights into the experience of immigrants.<br></p>
-                <h5>How long does it take to go between the two places?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">The number of exhibits you choose to examine, and the
-                    crowd density will determine how long your visit
-                    will last.<br> Usually, it takes 3 to 5 hours to see both Ellis Island and Liberty Island.<br></p>
-                <h5> Are there any guided tours available?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Yes, guided tours are available for both the Statue of Liberty and Ellis Island.<br> These tours offer
-                    in-depth information and personal anecdotes that enhance the overall experience.<br> Audio tours are
-                    also
-                    available for those who prefer exploring at their own pace.<br>
-                </p>
-                <h5>What further sights are in the area?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">Nearby attractions include Battery Park, where visitors
-                    can enjoy scenic views of the Statue of Liberty
-                    from the waterfront, and the National September 11 Memorial & Museum, which provides a meaningful
-                    tribute to the victims of the 9/11 attacks.<br>
 
-                    Statue of Liberty, Manhattan New York City, and Ellis Island hold immense historical and cultural
-                    significance.<br>
-                    Visiting these landmarks provides an opportunity to learn about American history and the immigrant
-                    experience.<br>
-                    Whether you're fascinated by the statue's design or interested in tracing your family's roots, a trip to
-                    the Statue of Liberty and Ellis Island is sure to be an enriching experience.<br>
+                <h5>Where can I find best Chinese food in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Chinatown is renowned for its diverse and delicious Chinese cuisine.<br> You can find excellent food
+                    options
+                    on Mott Street, Pell Street, and the Bowery.<br> Some famous restaurants include Jing Fong, Wo Hop, and
+                    Nom
+                    Wah Tea Parlor.<br>
+                </p>
+
+                <h5>Are there any traditional Chinese festivals celebrated in Chinatown?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Sure, Chinatown hosts various traditional Chinese
+                    festivals throughout the year.<br> The Lunar New Year celebration, held in late January or early
+                    February,
+                    is one of the most vibrant and exciting festivals in the neighborhood.<br>
+                </p>
+
+                <h5> Is bargaining common in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Bargaining is not as common in Chinatown as it might be in some other countries.<br> However, in certain
+                    shops or with street vendors, you may be able to negotiate a lower price, especially if you're buying
+                    multiple items.<br>
+                </p>
+
+                <h5> What other cultures are represented in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    While predominantly Chinese, Chinatown also showcases the influence of other Asian cultures.<br> You can
+                    find establishments representing Vietnamese, Thai, Malaysian, and other Asian communities within the
+                    neighborhood.<br>
+                </p>
+
+                <h5>Are there any walking tours available in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">From 1892 until 1954, Ellis Island served as the primary
+                    Sure, you can find guided walking tours in Chinatown that provide historical and cultural insights into
+                    the neighborhood.<br>
+                    Some tours focus specifically on the culinary scene, while others cover the broader history of the
+                    area.<br>
+                </p>
+
+                <h5>Can I visit nearby attractions from Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Absolutely, Chinatown is conveniently located near other popular attractions in Downtown Manhattan.<br>
+                    You
+                    can easily walk to places like Little Italy, the Lower East Side, and the Brooklyn Bridge.<br>
+                </p>
+
+                <h5>Is it easy to find Asian grocery stores in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Yes, there are several Asian grocery stores in Chinatown where you can find a wide range of ingredients
+                    used in Chinese, Vietnamese, and other Asian cuisines.<br>
+                </p>
+
+                <h5>Are there any parks or green spaces in Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Columbus Park is a popular green space in Chinatown where you can relax, enjoy the outdoors, and observe
+                    locals practicing tai chi, playing traditional Chinese games, or participating in group exercises.<br>
+                </p>
+
+                <h5>What is the best time to visit Chinatown, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">Nearby attractions include Battery Park, where visitors
+                    Chinatown is bustling all year-round, but the Lunar New Year period is especially lively.<br> It's a
+                    great
+                    time to experience the festive atmosphere and witness the neighborhood's exciting celebrations.<br>
                 </p>
 
             </div>
             <h3 id="Directions" class="my-3">Direction</h3>
             <div class="row px-3 wow bounce" data-wow-delay="0.1s">
-                <div class="col-12 col-lg-5 mx-auto video_1 ">
-                    <video autoplay muted loop id="myVideo_1">
-                        <source class="" src="{{ asset('images/Statue_of_Liberty/20210413_113757.mp4') }}"
-                            type="video/mp4">
-                    </video>
-                    <small class="text-center d-block">After get Ticket Cross to The Ship</small>
+                <div class="col-12 col-lg-4 mx-auto">
+                    <!-- Centered image with text -->
+                    <img class="w-100 p-2" src="{{ asset('images/Chinatown/Picture1.jpg') }}" class="img-fluid"
+                        alt="Article Image">
                 </div>
             </div>
-            <div class="row px-3 wow bounce" data-wow-delay="0.1s">
-                <div class="col-12 col-lg-5 mx-auto video_1 ">
-                    <video autoplay muted loop id="myVideo_1">
-                        <source class="" src="{{ asset('images/Statue_of_Liberty/20210413_114746.mp4') }}"
-                            type="video/mp4">
-                    </video>
-                    <small class="text-center d-block"> Cross inside Battery Park to office Tickets</small>
-                </div>
-            </div>
-            <h5 class=" wow bounce" data-wow-delay="0.1s">How to get to Battery Park and the Statue of Liberty, Manhattan
-                New York City most effectively:</h5>
-            <div class="col-12 col-lg-4 mx-auto wow bounce" data-wow-delay="0.1s">
-                <!-- Centered image with text -->
-                <img class="w-100 p-2"
-                    src="{{ asset('images/Statue_of_Liberty/Subway number 1 to South Ferry Station downtown Manhattan.jpg') }}"
-                    class="img-fluid" alt="Article Image">
-                <small class="text-center d-block">Subway number 1 to South Ferry Station downtown Manhattan</small>
-            </div>
-            <h5 class=" wow bounce" data-wow-delay="0.1s">• The subway lines that go to Battery Park in Manhattan, New
-                York City, are the 1 train and the R train.<br> You can take the 1 train to South Ferry station or the R
-                train
-                to Whitehall.<br>
+
+            <h5 class=" wow bounce" data-wow-delay="0.1s">
+                subway train numbers: N, Q, R, and 6 to Canal Street Station at
+                the Middle of Canal Street
             </h5>
 
 
-            <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                Street station, in downtown Manhattan, both of which are within walking distance to Battery Park, and
-                walking across the park to the ticket office.<br>
-            </p>
+            <h5 class=" wow bounce" data-wow-delay="0.1s">
+                Subway train number: B & D to Grand Street station at the east end of Chinatown.
+            </h5>
+            <h5 class=" wow bounce" data-wow-delay="0.1s">
+                Subway train numbers: A, C, and E to Canal Street Station at West Side Canal Street.
+            </h5>
 
 
             @include('website.layout.link')
             <iframe id="map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.3063877836644!2d-74.0470753239754!3d40.68924937139704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25090129c363d%3A0x40c6a5770d25022b!2sStatue%20of%20Liberty!5e0!3m2!1sen!2sus!4v1705075109913!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6048.175047527368!2d-74.00203075651795!3d40.71608971752944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259f56c2fc10d%3A0xcf9e1370cd1f3111!2sChinatown%2C%20New%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1705438189057!5m2!1sen!2sus"
                 width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
 

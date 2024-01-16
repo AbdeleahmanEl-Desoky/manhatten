@@ -11,14 +11,15 @@
 <!-- Site Metas -->
 @yield('title')
 <meta name="keywords" content="Manhattan, New York City, nyc, manhattan-nycwalk">
-<meta name="description" content="Information about Manhattan, NYC, museum, theaters, famous places and buildings like Times Square, Rockefeller center, one world trade center, Brooklyn bridge, statue of Liberty,also parks and more.">
+<meta name="description"
+    content="Information about Manhattan, NYC, museum, theaters, famous places and buildings like Times Square, Rockefeller center, one world trade center, Brooklyn bridge, statue of Liberty,also parks and more.">
 <meta name="author" content="">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     integrity="sha384-LC5KX6bLq7r0MPQ6rC90qF0aPGo/jA9a27d1v4vpl3z6lFkvww5Y2K6RuzQa6aV" crossorigin="anonymous">
 
 <link rel="canonical" href="https://manhattan-nycwalk.com">
 
-    <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
@@ -102,8 +103,7 @@
                                 class="w-100 d-lg-flex d-sm-block ml-sm-5 ml-lg-0 justify-content-between align-items-center">
                                 <div class="logo1 ">
                                     <img class="object-fit-cover  rounded" width="100px" onContextMenu="return false;"
-                                        src="{{ asset('website/assets/Manhattan Logo/LOGO.png') }}"
-                                        alt="Article Image">
+                                        src="{{ asset('website/assets/Manhattan Logo/LOGO.png') }}" alt="Article Image">
 
                                 </div>
                                 <div class="d-flex align-items-center">
@@ -136,22 +136,37 @@
                                             Article
                                         </button>
                                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="{{ route('home') }}">Manhattan, New York city</a>
-                                            <a class="dropdown-item" href="{{ route('times_square') }}">Times Square, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('home') }}">Manhattan, New York
+                                                city</a>
+                                            <a class="dropdown-item" href="{{ route('times_square') }}">Times Square,
+                                                NYC</a>
                                             <a class="dropdown-item" href="{{ route('vessel') }}">Vessel, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('one_world') }}">One World, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('rockefeller') }}">Rockefeller Center, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('charging_bull') }}">Charging Bull, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('wall_street') }}">Wall Street, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('little_island') }}">Little Island, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('centra_park') }}">Centra Park, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('south_street') }}">South Street, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">Statue, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('brooklyn_bridge') }}">Brooklyn Bridge, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">Statue, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('one_world') }}">One World,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('rockefeller') }}">Rockefeller
+                                                Center, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('charging_bull') }}">Charging
+                                                Bull, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('wall_street') }}">Wall Street,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('little_island') }}">Little
+                                                Island, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('centra_park') }}">Centra Park,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('south_street') }}">South Street,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('statue_of_liberty') }}">Statue,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('brooklyn_bridge') }}">Brooklyn
+                                                Bridge, NYC</a>
                                             <a class="dropdown-item" href="{{ route('edge') }}">Edge, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('highline') }}"> Highline, NYC</a>
-                                            <a class="dropdown-item" href="{{ route('united_nations_headquarters') }}">United, NYC</a>
+                                            <a class="dropdown-item" href="{{ route('highline') }}"> Highline,
+                                                NYC</a>
+                                            <a class="dropdown-item"
+                                                href="{{ route('united_nations_headquarters') }}">United, NYC</a>
+
+                                            <a class="dropdown-item" href="{{ route('Chinatown') }}">Chinatown,
+                                                NYC</a>
                                         </div>
                                     </div>
                                     <form class="form-inline">
