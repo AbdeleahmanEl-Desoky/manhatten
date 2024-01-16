@@ -22,10 +22,10 @@ Route::get('/clear-cache', function () {
     Artisan::call('config:clear');
 
     return "Cache cleared successfully";
- });
+});
 
 
- Route::get('times_square',[HomeController::class,'times_square'] )->name('times_square');
+Route::get('times_square',[HomeController::class,'times_square'] )->name('times_square');
  Route::get('vessel',[HomeController::class,'vessel'])->name('vessel');
  Route::get('/', [HomeController::class,'home'] )->name('home');
  Route::get('/one_world', function () {return view('website.one_world.one_world');})->name('one_world');
@@ -39,8 +39,9 @@ Route::get('/clear-cache', function () {
  Route::get('/brooklyn_bridge', function () {return view('website.brooklyn_bridge.brooklyn_bridge');})->name('brooklyn_bridge');
  Route::get('highline', [HomeController::class,'highline'] )->name('highline');
  Route::get('/edge', function () {return view('website.edge.edge');})->name('edge');
-Route::get('united_nations_headquarters', function () {return view('website.united_nations_headquarters.united_nations_headquarters');})->name('united_nations_headquarters');
+ Route::get('united_nations_headquarters', function () {return view('website.united_nations_headquarters.united_nations_headquarters');})->name('united_nations_headquarters');
 
+ Route::get('italy, ', function () { return view('website.little_italy.little_italy'); })->name('little_italy');
 
 Route::post('message', [HomeController::class,'message'])->name('message');
 

@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    <title>Edge, Manhattan New York City</title>
+    <title>Little Italy, Manhattan New York City</title>
 @endsection
 
 @section('header')
@@ -39,18 +39,20 @@
                                 index
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#Edge, Manhattan New York City">Edge, Manhattan New York City</a>
-                                <a class="dropdown-item" href="#Location and Neighborhood">Location and Neighborhood</a>
-                                <a class="dropdown-item" href="#Design and Architecture">Design and Architecture</a>
-                                <a class="dropdown-item" href="#Unmatched Views and Rooftop Experience">Unmatched Views and Rooftop Experience</a>
-                                <a class="dropdown-item" href="#Observation Deck Experience">Observation Deck Experience</a>
-                                <a class="dropdown-item" href="#Commitment to Sustainability">Commitment to Sustainability</a>
-                                <a class="dropdown-item" href="#Skyline App">Skyline App</a>
-                                <a class="dropdown-item" href="#Tickets, Timings, and Pricing">Tickets, Timings, and Pricing</a>
-                                <a class="dropdown-item" href="#Celebrity Sightings">Celebrity Sightings</a>
-                                <a class="dropdown-item" href="#Popular Culture">Popular Culture</a>
-                                <a class="dropdown-item" href="#Contributions to the community">Contributions to the community</a>
-                                <a class="dropdown-item" href="#Tips for Visiting">Tips for Visiting</a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#"></a>
                                 <a class="dropdown-item" href="#Questions">Questions</a>
                                 <a class="dropdown-item" href="#Directions">Direction</a>
                                 <a class="dropdown-item" href="#map">map</a>
@@ -72,16 +74,24 @@
                 <div class="col-12 text-center p-4">
 
                     <h2 style="color: black">
-                        Edge, Manhattan New York City
+                        Little Italy, Manhattan New York City
                     </h2>
                         <!-- First Row -->
                         <div class="col-12 col-lg-9 mx-auto wow bounce"  data-wow-delay="0.3s">
                             <!-- Centered image with text -->
                             <img class="w-100 h-75 p-2"
-                            src="{{asset('images/edge/Edge, Manhattan New York City.jpg')}}"
+                            src="{{asset('images/little_italy/Little Italy, Manhattan New York City in China downtown Manhattan.jpg')}}"
                                 class="img-fluid" alt="Article Image">
-                            <small class="d-block text-center">Edge, Manhattan New York City</small>
+                            <small class="d-block text-center">Little Italy, Manhattan New York City in China downtown Manhattan</small>
                         </div>
+                        <h5 class="wow bounce"  data-wow-delay="0.1s">
+                            Little Italy, Manhattan New York City, the attractive and active history of Little Italy in Manhattan, New York City, dates to the 19th century.<br>
+                            This lively neighborhood, which is sandwiched between SoHo and Chinatown, attracted Italian immigrants looking for a sense of belonging and familiarity in their new city.<br>
+                            <br>
+                            Little Italy first appeared in the region during the middle of the nineteenth century, when Italian immigrants started to settle there.<br>
+                            They initially gathered at Mulberry Bend, which would eventually become Mulberry Street.<br>
+                            Little Italy extended southward as the Italian population increased, and Mulberry Street became its major thoroughfare.
+                        </h5>
                 </div>
             </div>
         </div>
