@@ -39,16 +39,16 @@
                                 index
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
-                                <a class="dropdown-item" href="#"></a>
+                                <a class="dropdown-item" href="#Overview of Little Italy">Overview of Little Italy</a>
+                                <a class="dropdown-item" href="#The neighborhood">The neighborhood</a>
+                                <a class="dropdown-item" href="#Food and Drinks">Food and Drinks</a>
+                                <a class="dropdown-item" href="#Events and festivals">Events and festivals</a>
+                                <a class="dropdown-item" href="#Arts and Culture">Arts and Culture</a>
+                                <a class="dropdown-item" href="#Historic Sites">Historic Sites</a>
+                                <a class="dropdown-item" href="#Parks Recreation">Parks Recreation</a>
+                                <a class="dropdown-item" href="#Accommodations">Accommodations</a>
+                                <a class="dropdown-item" href="#Neighboring Area">Neighboring Area</a>
+                                <a class="dropdown-item" href="#questions">Questions</a>
                                 <a class="dropdown-item" href="#"></a>
                                 <a class="dropdown-item" href="#"></a>
                                 <a class="dropdown-item" href="#"></a>
@@ -124,7 +124,7 @@
                         It still draws both residents and visitors looking for Italian taste in the middle of Manhattan.<br>
                         Little Italy is still a lively and beloved neighborhood that proudly honors its extensive Italian heritage despite the difficulties and changes it has experienced.<br>
                     </p>
-                    <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Overview of Little Italy" data-wow-delay="0.1s">
                         <br><br>
                         Overview of Little Italy, Manhattan New York City
                     </h3>
@@ -181,7 +181,7 @@
                            A visit to Little Italy guarantees a unique experience infused with the essence of Italy, from its renowned restaurants and festivals to its lovely streets and kind friendliness.<br>
                            Little Italy will captivate your senses and leave you with priceless memories, whether you are a foodie, a history nerd, or just looking for a taste of Italian culture.
                         </p>
-                        <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                        <h3 class="wow bounce my-5" id="The neighborhood" data-wow-delay="0.1s">
                             The neighborhood Little Italy, Manhattan New York City
                         </h3>
                     </div>
@@ -279,7 +279,7 @@
                         </p>
                         <br>
                         <br>
-                        <h3 class="wow bounce"  data-wow-delay="0.1s">
+                        <h3 class="wow bounce" id="Food and Drinks" data-wow-delay="0.1s">
                             Food and Drinks
                         </h3>
                     </div>
@@ -656,7 +656,7 @@
                     Due to the expansion of Chinatown, the neighborhood has steadily transformed, but it has retained its Italian identity and offers a fantastic selection of food businesses and grocery stores.<br>
                     Markets and grocers in Little Italy are certain to impress, whether you're looking to buy delicious pasta or real Italian products, or you just want to soak up the vibrant atmosphere.
                 </p>
-                <h3 class="wow bounce my-5"  data-wow-delay="0.1s">
+                <h3 class="wow bounce my-5" id="Events and festivals" data-wow-delay="0.1s">
                     Events and festivals
                 </h3>
 
@@ -801,7 +801,7 @@
                 </div>
 
 
-                <div class="wow bounce" data-wow-delay="0.1s">
+                <div class="wow bounce" id="Arts and Culture" data-wow-delay="0.1s">
                     <h3>Arts and Culture</h3>
                     <div class="row ">
                         <div class="col-12 col-lg-5 mx-auto video_1 ">
@@ -914,7 +914,7 @@
                         Events at the Mott Street Theater and open-air performances in Columbus Park further improve the already thriving artistic scene.<br>
                         So, whether you appreciate theater or are basically trying to find a special cultural experience, Little Italy in Chinatown is worthwhile.
                     </p>
-                    <h3 class="wow bounce my-5" data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Historic Sites" data-wow-delay="0.1s">
                         Historic Sites
                     </h3>
                     <h5 class="wow bounce my-3" data-wow-delay="0.1s">
@@ -987,7 +987,7 @@
                         Little Italy, Manhattan New York City has a variety of walking routes and guided tours to suit different interests.<br>
                          Every tourist will find something to enthrall them in this lovely and historic neighborhood, whether it be tasting the neighborhood's gastronomic offerings, learning about its history, or immersing themselves in its active cultural activities.
                     </p>
-                    <h3 class="wow bounce my-5" data-wow-delay="0.1s">
+                    <h3 class="wow bounce my-5" id="Parks Recreation" data-wow-delay="0.1s">
                         Parks Recreation
                     </h3>
                     <h5 class="wow bounce my-3" data-wow-delay="0.1s">
@@ -1092,7 +1092,7 @@
                 </div>
 
 
-                <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <div class="wow bounce my-3 " id="Accommodations" data-wow-delay="0.1s">
                     <h3>Accommodations</h3>
                     <div class="row ">
                         <div class="col-12 col-lg-5 mx-auto video_1 ">
@@ -1159,8 +1159,8 @@
                         <br>
                         Think about things like location, facilities, cost, and customer feedback when choosing a vacation rental. Check for accessibility to Little Italy's well-known sites, available public transportation, and any other special requirements you may have during your stay.
                     </p>
-                    <h3 class="wow bounce my-" data-wow-delay="0.1s">
-                        Neighboring Area:
+                    <h3 class="wow bounce my-5" id="Neighboring Area" data-wow-delay="0.1s">
+                        Neighboring Area
                     </h3>
                     <p class="wow bounce" data-wow-delay="0.1s">
                     <li class="wow bounce" data-wow-delay="0.1s">
@@ -1177,7 +1177,7 @@
                     </p>
                 </div>
 
-                <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <div class="wow bounce my-3 " id="questions" data-wow-delay="0.1s">
                     <h3>Here are the most asked questions about Little Italy<br>
                         <br>
                         FAQ:
@@ -1191,58 +1191,122 @@
                         </div>
                     </div>
                     <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
-
+                        What is the historical background of the neighborhood?
                     </h5>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Little Italy New York City, has a rich cultural heritage, deeply rooted in Italian immigration to New York City during the late 19th and early 20th centuries.
                     </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Is Little Italy mostly residential or commercial in nature?
+                    </h5>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Little Italy New York City is predominantly a commercial zone, with a plethora of stores, restaurants, and companies catering to both locals and visitors.
                     </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        What are some popular attractions near Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Little Italy New York City, is conveniently located near notable attractions such as The Italian American Museum, making it an ideal destination for visitors exploring Manhattan.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        at is the best time to visit Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Little Italy New York City is lively year-round, but many visitors enjoy the festive atmosphere during the spring when the weather is pleasant, and events are abundant.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Can you recommend any family-friendly activities in Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Families can enjoy activities like the Little Italy Italian Food Tasting Tour, which offer a blend of entertainment, culture, and culinary experiences suitable for all ages.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Is Little Italy easily accessible by public transportation?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Little Italy New York City is well-served by public transportation, with several subway and bus lines providing convenient access to the neighborhood.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Are there any hotels or accommodations in Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        While Little Italy itself does not have many hotels, there are several lodging options available in the nearby neighborhoods that provide easy access to the district.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        What are some nearby shopping destinations outside of Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        If you're looking for additional shopping options, nearby neighborhoods like SoHo and Chinatown offer diverse retail experiences with an array of stores to explore.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Are there any guided tours of Little Italy available?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Yes, various tour companies offer guided walking tours of Little Italy, providing insights into the neighborhood's history, culture, and culinary delights.
+                    </p>
+                    <br>
+                    <h5 class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Can you recommend any romantic spots or activities for couples in Little Italy?
+                    </h5>
+                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                        Answer: Couples can enjoy a romantic stroll along the charming streets of Little Italy, dine in candlelit restaurants, or partake in intimate wine tastings for a memorable experience.
+                    </p>
+                    <br>
+                    <br>
+                </div>
+                <div class="row" id="Directions">
+                    <!-- First Row -->
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-12 col-lg-8 ">
+                                <h3 class="px-3 wow bounce" data-wow-delay="0.1s">
+                                    Direction To Little Italy, Manhattan New York City
+                                </h3>
+                                <br>
+                                <br>
+                                <!-- Left half of the article -->
+                                <p class="wow bounce"  data-wow-delay="0.1s">
+                                  <b>Little Italy is located on Mulberry Street, which is east of Canal Street.</b>
+                                  <br>
+                                  <br>
+                                    <li class="wow bounce"  data-wow-delay="0.1s">
+                                        Subway numbers: N, Q, R, and 6 train to Canal Street Station at the Middel of Canal Street
+                                    </li>
+                                    <br>
+                                    <li class="wow bounce"  data-wow-delay="0.1s">
+                                        Subway number: B & D Grand Street station at the east end of Chinatown.
+                                    </li>
+                                    <br>
+                                    <li class="wow bounce"  data-wow-delay="0.1s">
+                                        Subway numbers: A, C, and E Canal Street stations at West Side Canal Street.
+                                    </li>
+                                    <br>
+                                    <li class="wow bounce"  data-wow-delay="0.1s">
+                                        By Taxi
+                                    </li>
+                                </p>
+                            </div>
+                            <div class="col-12 col-lg-4 wow fadeInLeft" data-wow-delay="0.2s">
+                                <!-- Right third with an image -->
+                                <img class="w-100 h-75 p-2"
+                                    src="{{asset('images/little_italy/Subway number N & Q &R and 6 at middle canal street.jpg')}}"
+                                    class="img-fluid" alt="Article Image">
+                                <small class="text-center d-block">Subway number N & Q &R and 6 at middle canal street</small>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-
-
-                What is the historical background of the neighborhood?
-
-                Little Italy New York City, has a rich cultural heritage, deeply rooted in Italian immigration to New York City during the late 19th and early 20th centuries.
-
-                Is Little Italy mostly residential or commercial in nature?
-                Little Italy New York City is predominantly a commercial zone, with a plethora of stores, restaurants, and companies catering to both locals and visitors.
-
-                What are some popular attractions near Little Italy?
-                Little Italy New York City, is conveniently located near notable attractions such as The Italian American Museum, making it an ideal destination for visitors exploring Manhattan.
-
-                at is the best time to visit Little Italy?
-                Little Italy New York City is lively year-round, but many visitors enjoy the festive atmosphere during the spring when the weather is pleasant, and events are abundant.
-
-                Can you recommend any family-friendly activities in Little Italy?
-                Families can enjoy activities like the Little Italy Italian Food Tasting Tour, which offer a blend of entertainment, culture, and culinary experiences suitable for all ages.
-
-
-                Is Little Italy easily accessible by public transportation?
-                Little Italy New York City is well-served by public transportation, with several subway and bus lines providing convenient access to the neighborhood.
-
-                Are there any hotels or accommodations in Little Italy?
-                While Little Italy itself does not have many hotels, there are several lodging options available in the nearby neighborhoods that provide easy access to the district.
-
-                What are some nearby shopping destinations outside of Little Italy?
-                If you're looking for additional shopping options, nearby neighborhoods like SoHo and Chinatown offer diverse retail experiences with an array of stores to explore.
-
-                Are there any guided tours of Little Italy available?
-                Yes, various tour companies offer guided walking tours of Little Italy, providing insights into the neighborhood's history, culture, and culinary delights.
-
-                Can you recommend any romantic spots or activities for couples in Little Italy?
-                Answer: Couples can enjoy a romantic stroll along the charming streets of Little Italy, dine in candlelit restaurants, or partake in intimate wine tastings for a memorable experience.
-
-
-                	Direction To Little Italy, Manhattan New York City
-
-
-
-
-
-
             @include('website.layout.link')
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.359207833589!2d-74.00354932397214!3d40.75412357138731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590de5aaaadd%3A0xcc6b2b13b4bd86f!2sEdge!5e0!3m2!1sen!2sus!4v1705358180753!5m2!1sen!2sus"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9464081882466!2d-73.99748964999999!3d40.719196249999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598845057def%3A0x9ecf1b969fbbb484!2sLittle%20Italy%2C%20New%20York%2C%20NY%2010013!5e0!3m2!1sen!2sus!4v1705444877986!5m2!1sen!2sus"
             class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         {{-- * -------------------------------------------------------------------------------- --}}
         {{-- *                                    end content                                   --}}

@@ -49,6 +49,9 @@
                 src="{{ asset('website/assets/images/header/buttons/Chinatown, Manhattan New York city.jpg') }}"
                 alt=""></a>
 
+    <a class="link_image" href="{{ route('little_italy') }}"><img class="img_header"
+            src="{{ asset('website/assets/images/header/buttons/Little Italy, Manhattan New York City in China downtown Manhattan.jpg') }}"
+            alt=""></a>
 
     </div>
 
