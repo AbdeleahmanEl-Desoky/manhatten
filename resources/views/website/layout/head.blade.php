@@ -37,5 +37,5 @@
   {{-- *                                    my style                                     --}}
   {{-- *-------------------------------------------------------------------------------- --}}
 
-  <link rel="stylesheet" href="{{ asset('website/assets/css/my_style/my_style.css') }}">
-  <link rel="stylesheet" href="{{ asset('website/assets/css/my_style/media_query.css') }}">
+  <link rel="stylesheet" href="{{ asset('website/assets/css/my_style/my_style_v1.css') }}">
+  <link rel="stylesheet" href="{{ asset('website/assets/css/my_style/media_query_v1.css') }}">
