@@ -16,7 +16,7 @@
         <div id="carouselExampleIndicators" class="carousel slide img_container">
             <div class="carousel-inner">
                 <div class="carousel-item carousel_height h-100  active img_about">
-                    <img class="d-block h-100 w-100" src="{{ asset('website/assets/images/header/10.jpg') }}"
+                    <img class="d-block h-100 w-100" src="{{ asset('website/assets/images/header/11.jpg') }}"
                         alt="First slide">
                 </div>
             </div>
@@ -32,9 +32,8 @@
 
 @section('content')
     <section id="cta" class="section">
-        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 layerIndex d-lg-block">
-            <div class="sidebar">
-
+        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 layerIndex d-lg-block ">
+            <div class="sidebar ">
                 <div class="widget">
                     <div class="link-widget text-dark">
                         <div class="dropdown">
@@ -42,23 +41,40 @@
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 index
                             </button>
-                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#Culture">Culture and lifestyle in Chinatown, Manhattan New
+                            <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#construction">Empire State Building, Manhattan New York
+                                    City's construction</a>
+                                <a class="dropdown-item" href="#Today">Empire State Building, Manhattan New York City
+                                    Today:</a>
+                                <a class="dropdown-item" href="#Brief">A Brief Description of the Observation Decks</a>
+                                <a class="dropdown-item" href="#Events">Events hosted at the Empire State Building,
+                                    Manhattan New York City:</a>
+                                <a class="dropdown-item" href="#Interesting">Interesting facts about the Empire State
+                                    Building, Manhattan New York City</a>
+                                <a class="dropdown-item" href="#Popular">The Empire State Building, Manhattan New York City
+                                    in Popular Culture</a>
+                                <a class="dropdown-item" href="#References">References to the building in literature and
+                                    music</a>
+                                <a class="dropdown-item" href="#Visiting">Visiting the Empire State Building, Manhattan New
                                     York City</a>
-                                <a class="dropdown-item" href="#Shopping">Shopping in Chinatown, Manhattan New York City</a>
-                                <a class="dropdown-item" href="#Important">The Famous and Important Streets in Chinatown,
+                                <a class="dropdown-item" href="#Overview">Overview of ticketing and prices</a>
+                                <a class="dropdown-item" href="#visitors">Accessibility information for visitors</a>
+                                <a class="dropdown-item" href="#famous">Empire State Building, Manhattan New York City vs.
+                                    other famous buildings</a>
+                                <a class="dropdown-item" href="#museum">A museum library inside the structure</a>
+                                <a class="dropdown-item" href="#Restaurants">Restaurants inside the Empire State Building,
                                     Manhattan New York City</a>
-                                <a class="dropdown-item" href="#Landmarks">Landmarks and Attractions in Chinatown, Manhattan
-                                    New York City</a>
-                                <a class="dropdown-item" href="#Chinatown">Chinatown, Manhattan New York City's business
-                                    scene:</a>
-                                <a class="dropdown-item" href="#NYC'shistory">Chinatown, Manhattan New York City's role in
-                                    NYC's
-                                    history</a>
-                                <a class="dropdown-item" href="#questions">Here are the most asked questions:</a>
+                                <a class="dropdown-item" href="#night">Empire State Building, Manhattan New York City at
+                                    night</a>
+                                <a class="dropdown-item" href="#special">Overview of special events hosted at the building
+                                    at night.</a>
+                                <a class="dropdown-item" href="#impact">Empire State Building, Manhattan New York City's
+                                    impact on NYC</a>
+                                <a class="dropdown-item" href="#places">Important places near the Empire State Building,
+                                    Manhattan New York City</a>
+                                <a class="dropdown-item" href="#questions">The Empire State Building questions and
+                                    answers:</a>
                                 <a class="dropdown-item" href="#Directions">Direction</a>
-
-
                             </div>
 
                         </div>
@@ -80,7 +96,7 @@
                 <div class="col-12 text-center p-4">
 
                     <h2 style="color: black">
-                        Empire State Building, Manhattan New York City
+                        Empire State Building, New York City
                     </h2>
                 </div>
             </div>
@@ -103,74 +119,77 @@
                 <div class="col-12 col-lg-12 py-5 wow bounce" data-wow-delay="0.2s">
                     <h5 class="text-center">
                         Empire State Building, Manhattan New York City, has captured the attention of millions of people all
-                        over the world since it was finished in 1931.
+                        over the world since it was finished in 1931.<br>
                         Its spectacular design, intriguing history, and cultural significance have solidly cemented it as an
-                        enduring representation of the city.
+                        enduring representation of the city.<br>
                         We shall cover the Empire State Building's significance as an iconic landmark in New York City and
-                        its brief history in this post.
+                        its brief history in this post.<br>
                     </h5>
                 </div>
                 <div class="col-12  wow bounce " data-wow-delay="0.1s">
                     <p class="px-3 wow bounce " data-wow-delay="0.1s">
-                        Alfred E. Smith, a former governor of New York, and John J. Raskob, the CEO of General Motors,
-                        launched a competition to come up with the idea for the Empire State Building.
+                        Alfred E. Smith, a former governor of New York, and John J. Raskob, the CEO of General
+                        Motors,
+                        launched a competition to come up with the idea for the Empire State Building.<br>
                         They had plans to create a massive edifice that would top the storied Chrysler skyscraper and become
-                        the highest skyscraper in the whole globe.
+                        the highest skyscraper in the whole globe.<br>
                         Construction on the structure started on March 17, 1930, with the building's design being handled by
-                        the architectural firm Shreve, Lamb, and Harmon Associates.
+                        the architectural firm Shreve, Lamb, and Harmon Associates.<br>
                     </p>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
                         Given the difficult economic conditions of the Great Depression, the building of the Empire State
-                        Building was an impressive achievement. It took slightly over a year to finish, and on May 1, 1931,
-                        it was made public.
+                        Building was an impressive achievement.<br> It took slightly over a year to finish, and on May 1,
+                        1931,
+                        it was made public.<br>
                         With 102 stores and a remarkable height of 1,454 feet (443.2 meters), it surpassed the Chrysler
-                        Building's previous record to become the highest structure in the world.
+                        Building's previous record to become the highest structure in the world.<br>
                         The Empire State Building's architecture is evocative of Art Deco, a well-liked design fad of the
-                        time that emphasized strong geometric shapes and colorful flourishes.
+                        time that emphasized strong geometric shapes and colorful flourishes.<br>
 
                     </p>
 
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
                         It has a timeless visual appeal, thanks in part to its unusual setbacks, terraces, and famous pole
-                        on top.
-                        As a representation of New York City, the Empire State Building is of utmost significance. It has
+                        on top.<br>
+                        As a representation of New York City, the Empire State Building is of utmost significance.<br> It
+                        has
                         evolved into a timeless icon that has been captured in innumerable movies, images, and artistic
-                        creations.
+                        creations.<br>
                         The distinctive shape of the structure has come to represent the spirit of the city, standing for
-                        aspiration, development, and the quest for excellence.
-                        The viewing decks of the Empire State Building are one of its main attractions. These terraces,
-                        which are on the 86th and 102nd floors, provide stunning panoramic views of the whole city.
+                        aspiration, development, and the quest for excellence.<br>
+                        The viewing decks of the Empire State Building are one of its main attractions.<br> These terraces,
+                        which are on the 86th and 102nd floors, provide stunning panoramic views of the whole city.<br>
                     </p>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
                         Visitors swarm to the structure to take in the breathtaking views of Central Park, Manhattan's
-                        skyline, and beyond.
+                        skyline, and beyond.<br>
                         The Empire State Building has historical significance in addition to its architectural and aesthetic
-                        value.
-                        Throughout its existence, it has been there for several noteworthy occasions and milestones.
+                        value.<br>
+                        Throughout its existence, it has been there for several noteworthy occasions and milestones.<br>
                         The structure served as a crucial communication center during World War II by guiding Allied planes
-                        with its antennae.
+                        with its antennae.<br>
                         Several world records have also been set there, including the highest parachute jump from a building
-                        and the fastest lift ride to the summit.
+                        and the fastest lift ride to the summit.<br>
 
                     </p>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
                         Additionally, the Empire State Building has a strong connection to popular culture because of its
-                        repeated and significant appearances in music, television series, and movies.
+                        repeated and significant appearances in music, television series, and movies.<br>
                         Iconic films like "King Kong" and "Sleepless in Seattle" highlight their importance and how they
-                        have helped people across the world imagine things differently.
+                        have helped people across the world imagine things differently.<br>
                         The Empire State Building is still a crucial component of New York City's identity today and
-                        represents the city's extensive history, skill in architecture, and inventive attitude.
+                        represents the city's extensive history, skill in architecture, and inventive attitude.<br>
                     </p>
                     <p class="px-3 wow bounce" data-wow-delay="0.1s">
                         For travelers from all over the world, it is still a must-see location because it provides a
-                        memorable experience and a concrete link to the city's exciting history.
+                        memorable experience and a concrete link to the city's exciting history.<br>
                         It is impossible to overestimate the Empire State Building's importance as an iconic landmark in New
-                        York City or its limited history.
+                        York City or its limited history.<br>
                         It stands as a tribute to human ingenuity and the ever-alluring New York City skyline, from its
                         beginnings as a ground-breaking idea to its status as the highest skyscraper in the world and its
-                        ongoing cultural effect.
+                        ongoing cultural effect.<br>
                         Empire State Building, Manhattan New York City continues to stand as a timeless representation of
-                        aspiration, inspiration, and the unwavering spirit of the "Big Apple" as time goes on.
+                        aspiration, inspiration, and the unwavering spirit of the "Big Apple" as time goes on.<br>
                     </p>
                 </div>
             </div>
@@ -209,8 +228,8 @@
                     The Great Depression, which began soon after the building started, was one of the main problems.<br>
                     The project faced a sizable financial risk because of the reduction in office space demand brought on by
                     the economic crisis.<br>
-                    But the construction crew, under the leadership of Chief Engineer Homer G.<br> Balcom and General
-                    Superintendent William F.<br> Lamb, persevered, and the building was finished on schedule.<br>
+                    But the construction crew, under the leadership of Chief Engineer Homer G. Balcom and General
+                    Superintendent William F. Lamb, persevered, and the building was finished on schedule.<br>
                     The Empire State Building's height presented several difficulties as well.<br> Innovative solutions
                     emerged
                     because of the contest to build the highest structure in the world.<br>
@@ -272,8 +291,7 @@
                     The Empire State Building, Manhattan New York City, is a famous landmark that has come to represent the
                     skyline of New York City's Manhattan.<br>
                     It was the highest structure in the world until 1970, reaching a stunning height of 1,454 feet
-                    (443.<br>2
-                    meters) with its lightning rod.<br>
+                    (443.2meters) with its lightning rod.<br>
                     It is still one of the most well-liked tourist attractions today and represents the majesty and ambition
                     of New York.<br>
                 </p>
@@ -394,7 +412,7 @@
                     </li>
                     <li class="mb-2 wow bounce" data-wow-delay="0.1s">
                         Height and Record: When the Empire State Building was finished, it had a startling height of 1,454
-                        feet (443.<br>2 meters), making it the highest structure in the world.<br>
+                        feet (443.2 meters), making it the highest structure in the world.<br>
                         It kept this record until the World Trade Center's North Tower was finished in 1970.<br>
                     </li>
                     <li class="mb-2 wow bounce" data-wow-delay="0.1s">
@@ -624,7 +642,7 @@
                     The ideal times to visit, what to anticipate, and some general advice for a wonderful trip to the Empire
                     State Building are all included in this book.<br>
                 </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.<br>1s">
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Timing is extremely important when visiting the Empire State Building.<br> It is one of the most visited
                     sights in New York, so it is advisable to schedule your visit for a time when there won't be as many
                     crowds.<br>
@@ -633,7 +651,7 @@
                     You may have a greater chance of avoiding heavy crowds if you arrive early or visit close to closing
                     time.<br>
                 </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.<br>1s">
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Consider reserving your tickets in advance to make the most of your trip.<br> Thanks to advancements in
                     technology, you can now purchase tickets for the Empire State Building online, skipping the queue and
                     maximizing your time on the observation deck.<br>
@@ -643,1104 +661,674 @@
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     You will be taken to the 86th-floor observation deck of the Empire State Building, which offers
-                    breathtaking panoramic views of Manhattan, as you enter the structure.
+                    breathtaking panoramic views of Manhattan, as you enter the structure.<br>
                     Get ready for breath-taking views of the metropolitan skyline, which will include locations like Times
-                    Square, Central Park, and the Statue of Liberty.
-                    You could even be able to see neighboring states like New Jersey or Connecticut on a clear day.
+                    Square, Central Park, and the Statue of Liberty.<br>
+                    You could even be able to see neighboring states like New Jersey or Connecticut on a clear day.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Even though the views are unquestionably the best part, the Empire State Building provides more than
-                    simply a picturesque vista.
-                    There are educational displays about the building's history and construction across the observatory.
+                    simply a picturesque vista.<br>
+                    There are educational displays about the building's history and construction across the observatory.<br>
                     Take your time and really examine these exhibits since they offer a fascinating perspective on the
-                    building's significance and the architectural wonder it represents.
+                    building's significance and the architectural wonder it represents.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    If you want to improve your experience, think about taking a guided tour.
+                    If you want to improve your experience, think about taking a guided tour.<br>
                     The Empire State Building provides audio tours that are provided through an audio device that may be
-                    rented at the entry and are packed with intriguing information and tales.
+                    rented at the entry and are packed with intriguing information and tales.<br>
                     These tours can provide more in-depth explanations and aid you in experiencing the building's importance
-                    more fully.
+                    more fully.<br>
 
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Photographers will be thrilled to learn that climbing the Empire State Building is a must-do to take
-                    stunning photos. Make sure to be ready, whether you're shooting with a DSLR or your smartphone. Remember
+                    stunning photos.<br> Make sure to be ready, whether you're shooting with a DSLR or your smartphone.<br>
+                    Remember
                     that tripods are prohibited; thus, for long-exposure images, handheld stabilization or support may be
-                    required.
-                    Finally, remember to browse the gift shop before leaving. It provides a broad variety of goods with an
-                    Empire State Building theme that are wonderful keepsakes to recall your trip.
+                    required.<br>
+                    Finally, remember to browse the gift shop before leaving.<br> It provides a broad variety of goods with
+                    an
+                    Empire State Building theme that are wonderful keepsakes to recall your trip.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
                     Empire State Building, Manhattan New York city gives a singular opportunity to experience New York
-                    City's splendor from a vantage point like no other. These suggestions will help you make the most of
-                    your time, avoid the crowds, and leave lasting impressions of this famous site.
+                    City's splendor from a vantage point like no other.<br> These suggestions will help you make the most of
+                    your time, avoid the crowds, and leave lasting impressions of this famous site.<br>
                     Get ready to be astounded by the amazing views, explore the building's past, and document the
-                    enchantment with your camera. In NYC, Empire State Building is undoubtedly a must-see attraction for
-                    tourists.
+                    enchantment with your camera.<br> In NYC, Empire State Building is undoubtedly a must-see attraction for
+                    tourists.<br>
                 </p>
             </div>
 
             {{-- img&&h3 --}}
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Popular shopping destinations in Chinatown, Manhattan New York City</h5>
+                <h3 id="Overview">Overview of ticketing and prices</h3>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown, Manhattan New York City is a bustling neighborhood that provides both locals and visitors
-                    with a distinctive shopping experience.<br>
-                    Chinatown, which is well-known for its diverse cultural history and lively environment, is home to a
-                    broad variety of well-liked shopping spots that provide a variety of things, from seasonal food and
-                    exotic spices to fashionable clothing and traditional Chinese crafts.<br>
-                    The excitement of visiting Chinatown's many outdoor markets and street sellers is one of the delights of
-                    shopping there.<br>
+                    In Manhattan, NYC, there is a famous landmark called Empire State Building, Manhattan New York City.<br>
+                    It is a must-see destination for travelers from all over the world and is well known for its
+                    breathtaking
+                    views over the city.<br>
+                    For people who are interested in visiting the Empire State Building, Manhattan New York City, the
+                    various ticketing choices and rates are shown below.<br> There are various ticket options available for
+                    viewing the Empire State Building NYC.<br>
+                    The Main Deck ticket, which provides access to the 86th-floor observation deck, is the first choice.<br>
+                    Visitors may be awed by the stunning panoramic views of the city from this location, which extend miles
+                    in every direction.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The neighborhood's main street, Canal Street, is lined with shops offering a variety of goods, including
-                    imitation designer handbags, jewelry, electronics, and accessories.<br>
-                    It's a busy center where you can practice your bargaining techniques and locate fantastic deal
-                    opportunities.<br>
-                    A trip to Chinatown's indoor food stalls is essential for foodies.<br>
-                    One of the most well-known is the historic Canal Street Market, where a carefully chosen group of
-                    regional sellers sells delectable foods including dim sum, bubble tea, dumplings, and conventional
-                    Chinese sweets.<br>
-                    It's a haven for foodies where you can savor delicious dishes and experience real flavors.<br>
+                    The Dare to Dream exhibit, which offers an interactive tour of the building's history and construction
+                    process, is also accessible with the Main Deck ticket.<br>
+                    The Express Pass can be bought if a more privileged experience is what you're after.<br>
+                    This permit guarantees a quicker and more convenient experience by allowing visitors to skip the
+                    standard queues and giving them priority access to the elevators.<br>
+                    Visitors who wish to maximize their travel time and save time should go with this option.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The businesses in Chinatown that specialize in Chinese herbs, teas, and traditional remedies are also
-                    well known.<br>
-                    The herbal shops on Mott Street, where you may get a wide variety of herbs, roots, and treatments
-                    utilized in Chinese herbal medical practices, are particularly well-known.<br>
-                    These stores frequently offer experienced employees who can help you select the ideal goods for your
-                    needs.<br>
-                    With so many clothing stores and boutiques, Chinatown is also a sanctuary for fashion lovers.<br>
+                    There is also the Sunrise/Sunset VIP Experience ticket, which provides a rare opportunity to take in
+                    breath-taking vistas at the height of dawn or sunset.<br>
+                    Visitors may take in the serenity and beauty of the city as it awakens or comes to life in the evening
+                    with this ticket.<br> It's a chance to take beautiful pictures and make priceless memories.<br>
+                    Let's now discuss the cost of the tickets.<br> Children's tickets (for ages 6 to 12) typically cost
+                    approximately $34, while adult admission to the Main Deck costs around $40.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Express Pass costs $20 more and is an option.<br> The season and any current specials may affect
+                    these prices, so it is best to visit the official Empire State Building website or get in touch with
+                    their
+                    customer care for the most recent details.<br>
+                    Additional experience or packages may be included in the ticketing options and costs.<br> For instance,
+                    some packages include access to both the Main Deck on the 86th level and the Top Deck on the 102nd
+                    floor,
+                    giving you even better vantage points of the city skyline.<br>
+                    Empire State Building, Manhattan New York City, is a well-known tourist destination and may be rather
+                    busy, particularly during peak hours.<br>
 
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Affordable, stylish apparel and accessories are available here.<br> Chinatown has clothing for every
-                    taste,
-                    from contemporary styles to those with traditional Chinese influences.<br>
-                    The Pearl River Mart, a well-liked emporium that provides a diverse selection of goods with Asian
-                    influences, is another must-visit shopping location.<br>
-                    This venerable retailer, which opened its doors in 1971, sells a broad variety of goods, including
-                    cookware, stationery, books, home décor, and unusual gifts.<br> It has a wealth of Asian art and
-                    design.<br>
+                    Planning, thinking about booking tickets in advance, and arriving early to avoid lengthy lines are
+                    advised to get the most out of your visit.<br>
+                    Conclusion: Seeing the Empire State Building is an exceptional chance to see panoramic views of New York
+                    City.<br>
+                    Visitors may select the experience that best fits them thanks to the variety of admission choices
+                    offered, whether it's a conventional Main Deck visit, an Express Pass for quick entry, or a
+                    Sunrise/Sunset VIP experience.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    There are several well-known shopping areas in the thriving neighborhood of Chinatown, Manhattan New
-                    York City.<br>
-                    There is no shortage of interesting places to buy, from outdoor markets and street stalls to interior
-                    food markets, herbal shops, fashion boutiques, and cultural emporiums.<br>
-                    Chinatown has everything, whether you're looking for delectable cuisine, authentic Chinese goods,
-                    cutting-edge clothing, or a combination of everything.<br>
+                    For the most up-to-date pricing information, check the official website, and plan for a great visit to
+                    this famous representation of the city's history and architectural magnificence.<br>
+                    The Empire State Building, Manhattan New York City, offers both in-person and online ticketing
+                    options.<br>
                 </p>
             </div>
             {{-- img&&h3 --}}
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Bargain tips for shopping in Chinatown, Manhattan New York City</h5>
+                <h3 id="visitors">Accessibility information for visitors</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
-                    <img class="w-100 p-2" src="{{ asset('images/Chinatown/Chinatown, Manhattan New York City1.jpg') }}"
+                    <img class="w-100 p-2"
+                        src="{{ asset('images/empire_state/Empire State Building, Manhattan New York City6.jpg') }}"
                         class="img-fluid" alt="Article Image">
                     <small class="text-center d-block">
-                        Chinatown, Manhattan New York City
+                        Empire State Building, Manhattan New York City
                     </small>
                 </div>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Shopping in Chinatown, Manhattan New York City is a fun, lively experience that provides a ton of
-                    discounts and interesting items.<br>
-                    There are many suggestions to make the most of your shopping experience while staying within your means,
-                    whether you're seeking reasonably priced goods, vintage knickknacks, or delectable street cuisine.<br>
-                    To escape the crowds and have enough time to visit the many stores and marketplaces, it is crucial to
-                    come early in the day.<br> Arriving early enables you to explore the neighborhood more effectively and
-                    avoids missing any hidden treasures because Chinatown can get rather congested, especially on
-                    weekends.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    In Chinatown, bargaining is usual, but it's crucial to go into it with respect and a nice demeanor.<br>
-                    Most sellers are going to expect some haggling, and depending on how well you negotiate, they could be
-                    prepared to drop their pricing.<br>
-                    Not all establishments, particularly those that offer things with set prices like food or electronics,
-                    engage in the practice of bartering.<br>
-                    Discovering Chinatown's alleyways and alleyways might help you find tiny, independently owned businesses
-                    that provide great goods at competitive costs.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    These stores frequently provide a vast selection of current apparel, accessories, and home products,
-                    enabling you to locate fashionable items without spending a fortune.<br>
-                    Watch for sales and special deals, since many shops may give you a discount on certain items or on
-                    holidays, like Chinese New Year.<br>
-                    Visiting the various street markets that line the busy streets of the neighborhood is another excellent
-                    suggestion for finding amazing deals when shopping in Chinatown.<br>
-                    A well-known market that caters to frugal customers, Canal Street Market offers a variety of goods at
-                    reduced costs.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Nearly anything can be found at the market's kiosks, from attire and accessories to mementos and
-                    trinkets.<br> Negotiating for a better price is encouraged here and is frequently expected.<br>
-                    In addition, Chinatown is well known for its culinary scene, which includes a wide variety of
-                    restaurants and street food stands.<br>
-                    Go to the various food trucks and booths dotted throughout the neighborhood if you're looking for a fast
-                    and affordable snack.<br>
-                    For their delectable and reasonably priced delights, the Chinese bakeries in Chinatown are worth
-                    visiting.<br>
-                    Finally, while touring Chinatown, it's important to keep a watch on your things and be aware of your
-                    surroundings.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Pickpocketing can happen in a crowded city, so exercise caution and safeguard your belongings.<br>
-                    Shopping in Manhattan's Chinatown is a special experience full of discounts, historical treasures, and
-                    delectable treats.<br>
-                    You may get the most out of your shopping experience without emptying your bank account by getting there
-                    early, learning the art of respectful bargaining, perusing tiny stores and street markets, and indulging
-                    in the local street cuisine.<br>
-                    So put on your walking shoes, fill up your bag with goods, and get ready for a memorable shopping trip
-                    to the vibrant Chinatown of New York City.<br>
+                    One of the most recognizable and well-liked tourist destinations in the world is Empire State Building,
+                    Manhattan New York City, which is situated in Manhattan, NYC.<br>
+                    There are a few crucial details concerning this architectural marvel's accessibility for people with
+                    impairments that you should be aware of if you want to visit it.<br>
+                    Regardless of their physical limitations, the Empire State Building aims to make sure that every guest
+                    has a pleasant and pleasurable day.<br>
                 </p>
             </div>
-
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3 id="">The Famous and Important Streets in Chinatown, Manhattan New York City</h3>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Mulberry Street in east canal street in.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">
-                        Mulberry Street in east canal street in Chinatown, Manhattan New York City
-                    </small>
-                </div>
-
-
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The vibrant and busy neighborhood of Chinatown, Manhattan New York City is well-known for its delectable
-                    cuisine, rich cultural identity, and distinctive retail opportunities.
-                    There are several Chinese immigrants and their offspring living there, which is in Lower Manhattan.
-                    Chinatown's streets stand out as some of the most intriguing and well-known in the area, among the many
-                    attractions that lure tourists there.
-                </p>
-                <h6>Here are a few of Chinatown's most significant and well-known streets:</h6>
-                <h6>All the streets are located on Canal Street's east side:</h6>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Canal Street is perhaps the most famous and prominent street in Chinatown, Manhattan New York City.<br>
-                    It passes through the heart of the community and is well known for drawing sizable crowds, hosting
-                    colorful markets, and housing a variety of shops.<br>
-                    You can get the best prices on everything from apparel and accessories to gadgets and curiosities on
-                    Canal Street, one of Chinatown's main commercial streets.<br>
-                    Some of the busiest spots on Canal Street include the Canal Street Market, which has a carefully curated
-                    selection of small shops and eateries, as well as the countless street vendors and booths that sell
-                    anything from fresh produce to fake designer products.<br> (starting in Chinatown from west to
-                    east).<br>
-
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Another significant route in Chinatown is the Mott route, which has a long history
-                    dating back to the 1800s.</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Due to the gang violence that wracked the neighborhood in the early 1900s, it was formerly known as the
-                    "Bloody Angle.<br>
-                    Today, many of Chinatown's most well-liked eateries, retail establishments, and attractions can be found
-                    on Mott Street, which is a lively and busy road.<br>
-                    The Nom Wah Tea Parlour, one of Chinatown's oldest dim sum establishments, and the bustling street
-                    markets where everything from souvenirs to exotic fruits is sold are just a few of the must-see
-                    locations on Mott Street.<br> (east side canal street).<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>In Chinatown, Pell Street is a quaint and historic Street famous for its beautiful
-                    architecture and vibrant arts community.</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Many of the old structures and mansions that line the Street were originally occupied by some of the
-                    area's wealthiest families, and many have been maintained and renovated.<br>
-                    Pell Street now has a diverse range of shops, restaurants, and performance venues, along with art
-                    galleries and studios.<br> (East of Canal Street between First Street and Bowery).<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Another famous, historically important, and culturally rich street in Chinatown is the Bowery.</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The ancient theaters and concert halls, which hosted some of the most important artists of the last
-                    century, are perhaps best known for them.<br>
-                    In addition to its cultural highlights, the Bowery is also home to many exceptional shops and
-                    restaurants, including some of the best seafood establishments in Chinatown (East Side Canal
-                    Street).<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Grand Street, running from the East River to the Bowery, is a major street. </h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    This is the location of some of the neighborhoods most important landmarks, such as the historic Edward
-                    Mooney House and the Mahayana Buddhist Temple.<br>
-                    With many cafes serving everything from modern fusion to classic Chinese dishes, Grand Street is also a
-                    popular destination for foodies (East Side Canal Street).<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Doyers Street: Doyers Street is possibly the most well-known street in all of Chinatown.</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The narrow, winding, and historically significant alley that connects Pell Street and the Bowery is
-                    charming<br>
-                    Gambling and opium dens were among the many unlawful activities that took place on Doyers Street in the
-                    past<br>
-                    The neighborhood is now a popular tourist attraction, and the street is lined with several restaurants
-                    and shops<br> (Canal Street on the east side)<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Mulberry Street is an important and well-known thoroughfare in New York's Chinatown. </h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Given the abundance of stores, eateries, and tourist-drawing cultural attractions, it is regarded as the
-                    neighborhood's hub.<br>
-                    The street is renowned for its historical architecture, which includes several early 1900s tenement
-                    houses that have been conserved.<br>
-                    The annual San Gennaro Festival, an Italian American celebration that takes place every September, is
-                    one of several festivals and events that take place on the street.<br>
-                    Beyond its cultural and historical value, Mulberry Street is significant because it serves as a symbol
-                    of New York City's lively and diverse population.<br> (east side Canal Street).<br>
-                </p>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Doyers Street, popularly known as The Bloody Angle, is a charming yet notorious alleyway situated in
-                    the center of Manhattan's Chinatown.</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Given the abundance of stores, eateries, and tourist-drawing cultural attractions, it is regarded as the
-                    neighborhood's hub.<br>
-                    The street is renowned for its historical architecture, which includes several early 1900s tenement
-                    houses that have been conserved.<br>
-                    The annual San Gennaro Festival, an Italian American celebration that takes place every September, is
-                    one of several festivals and events that take place on the street.<br>
-                    Beyond its cultural and historical value, Mulberry Street is significant because it serves as a symbol
-                    of New York City's lively and diverse population.<br> (east side Canal Street).<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    In terms of history, it was the base of operations for a legendary gang known as the "Tong Wars," which
-                    would regularly engage in bloody conflicts with competing gangs over control of territory and illegal
-                    enterprises.<br>
-                    Despite its turbulent background, the street has now blossomed into a well-liked tourist destination
-                    because of its lovely architecture, busy businesses, and delicious authentic Chinese food.<br>
-                    A hidden cocktail bar with a secret door is just one of the interesting shops that visitors may
-                    investigate.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    However, there are still signs of the street's violent past in place today.<br> It's said that the
-                    street's
-                    angle was purposefully chosen to provide quick getaways and opportunities for surprise assaults.<br>
-                    Additionally, it's easy to picture the fierce conflicts that formerly occurred because of the little
-                    passageways and dimly lit tunnels.<br>
-                    The Bloody Angle offers an intriguing look into New York City's lengthy past overall.<br> Although its
-                    recent history may have been brutal, it has a thriving culture and lots of interesting things to do
-                    now.<br>
-                </p>
-            </div>
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3 id="Landmarks">Landmarks and Attractions in Chinatown, Manhattan New York City</h3>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Festival in Chinatown, Manhattan New York City.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">Festival in Chinatown, Manhattan New York City</small>
-                </div>
-            </div>
-
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Overview of the major landmarks in Chinatown, Manhattan New York City</h5>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/One Street in Chinatown, Manhattan New York City.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">One Street in Chinatown, Manhattan New York City</small>
-                </div>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The ancient Manhattan Bridge is one of Chinatown, Manhattan New York City's most recognizable sights.
-                    The bridge, which links Manhattan and Brooklyn, serves as the neighborhood's entrance and provides
-                    breathtaking views of the region.<br>
-                    It is a notable element in the Chinatown skyline because of its unusual construction, which features
-                    exquisite steelwork and towering arches.<br>
-                    The Mahayana Buddhist Temple, which is situated on Canal Street, is another famous monument.<br>
-                    Beautiful artwork, exquisite statuary, and vibrant decorations decorate this amazing sanctuary of
-                    worship.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Observing different religious ceremonies and paying reverence to their gods in a calm and contemplative
-                    environment
-                    A lush haven tucked away in Chinatown; Columbus Park is a sight not to be missed.<br> It was formerly a
-                    center for the Italian community, but now it serves the Chinese community.<br>
-                    The park is a hive of activity, with residents practicing tai chi, enjoying traditional Chinese
-                    pastimes, and conversing animatedly.<br> It functions as a hub for cultural celebration and interaction
-                    among locals.<br>
-                    Street markets in Chinatown are a thriving tourist attraction as well.<br> Numerous stores on Canal
-                    Street
-                    offer everything from traditional Chinese treatments and herbs to one-of-a-kind trinkets and exotic
-                    delicacies.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Visitors may locate lively marketplaces like the renowned Canal Street Market or the dynamic Doyers
-                    Street, nicknamed the "Bloody Angle" due to its past as a hub for gang activity, by exploring the tiny
-                    lanes and maze-like streets.<br>
-                    The rich and unique food scene in Chinatown is one of its gastronomic attractions.<br> Visitors may
-                    enjoy
-                    mouthwatering Chinese food at establishments ranging from classic dim sum eateries to lively noodle
-                    shops.<br>
-                    Restaurants selling exquisite treats that reflect the many flavors and culinary traditions of China,
-                    such as Wo Hop, Nom Wah Tea Parlor, and Jing Fong, have established themselves as institutions.<br>
-                    The Museum of Chinese in America (MOCA), a cultural mecca that documents the background and achievements
-                    of Chinese immigrants in the US, is also located in Chinatown.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Visitors may peruse engaging exhibitions, appreciate artwork, and participate in educational programs
-                    that illuminate the difficulties, successes, and developing Chinese American identity of the
-                    immigrants.<br>
-                    Chinatown, Manhattan New Yorkn City is a busy and beautiful neighborhood with a colorful cultural
-                    atmosphere, famous monuments, and a long history.<br>
-                    Visitors get a one-of-a-kind chance to learn about Chinese culture, enjoy real food, and encounter the
-                    friendliness and liveliness of this multicultural neighborhood.<br>
-                    is a mesmerizing location that will have a lasting effect on everyone who visits, whether it's Chinatown
-                    wandering the streets, indulging in delectable food, or learning about the neighborhood's illustrious
-                    past.<br>
-                </p>
-            </div>
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>A detailed guide to the fascinating architecture in Chinatown, Manhattan New York
-                    City
+            {{-- img&&h3&&pharg --}}
+            <div class="wow bounce" data-wow-delay="0.1s">
+                <h5>
+                    There are the following accessibility options:
                 </h5>
+                <ul class=" wow bounce" data-wow-delay="0.1s">
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Entrance and Exit: There are ramps leading to the ticketing area at the Fifth Avenue main entrance,
+                        which is handicapped accessible. For easy travel, the exit path also incorporates accessible ramps.
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Elevators: Visitors can travel to the different observation floors via the building's accessible
+                        elevators. Wheelchairs and other mobility devices fit comfortably in these lifts.
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Bathrooms: The observatory on the 86th level has wheelchair-accessible bathrooms.
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Services for Visitors with Visual Impairments Visitors with visual impairments can find braille and
+                        tactile signs around the facility, which provide direction. The Empire State Building NYC also
+                        accepts guide dogs.
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Wheelchair Rental: On the route to the lifts, there is a wheelchair rental desk. It is advised to
+                        bring your own wheelchair or other mobility device, though
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Free assistive listening devices are available for anyone with hearing problems who visits the
+                        Empire State Building NYC. The ticket office is where you can purchase these gadgets.
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Website Accessibility: The Empire State Building's official website, https://www.esbnyc.com, was
+                        created with people with disabilities in mind. To increase usability, it provides text alternatives
+                        and other features.
+                    </li>
+                </ul>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    These are but a few instances of the Empire State Building's appearance in art.<br> The imposing
+                    building has come to represent aspiration, passion, and the vivacious energy of NYC.<br> Its sustained
+                    position
+                    as a revered and inspiring monument is evidenced by its continued relevance in popular culture.<br>
+                </p>
+            </div>
+            {{-- parag --}}
+            <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <h3 id="famous">Empire State Building, Manhattan New York City vs. other famous buildings</h3>
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
                     <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Street in Chinatown, Manhattan New York City.jpg') }}"
+                        src="{{ asset('images/empire_state/Empire State building, Manhattan New York City7.jpg') }}"
                         class="img-fluid" alt="Article Image">
                     <small class="text-center d-block">
-                        Street in Chinatown, Manhattan New York City
+                        Empire State building, Manhattan New York City View from 34 street and 9 Avenue
                     </small>
                 </div>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown, Manhattan New York city is a thriving neighborhood in Manhattan, New York City, recognized
-                    for its extensive cultural history and intriguing architecture.<br>
-                    This lively neighborhood, which spans many blocks, is filled with architectural marvels that showcase
-                    the culture and history of the Chinese population.<br>
-                    Here is a comprehensive introduction to Manhattan's Chinatown and its stunning architecture.<br>
-                    The Mahayana Buddhist Temple is among Chinatown's most recognizable buildings.<br> This temple, which is
-                    located on Canal Street, is a stunning illustration of Chinese-inspired design.<br>
-                    It draws attention right away with its elaborate facade, which has vivid red and gold hues, complex
-                    carvings, and pagoda-style roofs.<br>
+                    One of the most recognizable and well-known architectural wonders in the entire globe is without a doubt
+                    the Empire State Building, which is situated in Manhattan, NYC.<br>
+                    With 102 stores and a height of 1,454 feet (443.2 meters), it has long captivated the interest of people
+                    from all walks of life.<br>
+                    Empire State Building, Manhattan New York City may be compared to other well-known structures to learn
+                    more about architectural innovations, cultural value, and historical significance.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    A magnificent Buddha statue and a calm environment welcome you as you enter, offering a tranquil haven
-                    amidst the busy streets.<br>
-                    Your search for architecture will lead you to the Edward Mooney House.<br>
-                    This historic structure, which was constructed in 1785, is a unique surviving example of Federal-style
-                    architecture in Manhattan.<br>
-                    The Edward Mooney House, with its characteristic red-brick façade, graceful proportions, and symmetrical
-                    layout, provides a window into the city's historical architectural style.<br>
+                    It is hard to talk about the Empire State Building, Manhattan New York City without mentioning its
+                    outstanding Art Deco architecture.<br>
+                    When it was finished in 1931, it represented the pinnacle of the American industrial period and was a
+                    distinctive synthesis of design, grace, and invention.<br>
+                    Utilizing a steel framework and a quick assembly procedure, this architectural marvel made use of
+                    developments in construction technology at the time to create the structure in less than 14 months.<br>
+                    This achievement demonstrated the creativity and skill of American engineers.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The Confucius Plaza is another notable landmark.<br> On Bowery and Division Streets, a towering
-                    residential
-                    structure displays a fusion of modernism and Chinese elements.<br>
-                    Confucius Plaza is a sight to behold because of its distinctive pagoda-inspired roofing and vibrant
-                    ornamental panels with Chinese characters and symbols.<br>
-                    Tenement buildings that you'll come across as you walk the streets will provide you with a glimpse into
-                    the hardships of early Chinese immigrants.<br>
-                    Small windows and front stoops define the distinctive architectural form of these five-story, slender
-                    buildings, which frequently housed many families.<br>
+                    The Burj Khalifa in Dubai has among the most prominent similarities to the Empire State Building.<br>
+                    The Burj Khalifa, which soars to a dizzying 2,717 feet (828 meters), is the highest freestanding
+                    building in the whole world.<br>
+                    This contemporary wonder, which was finished in 2010, is a showcase for innovative architecture and
+                    cutting-edge technology.<br>
+                    The Burj Khalifa portrays the ambition and splendor of the 21st century, whereas the Empire State
+                    Building represents the spirit of the early 20th century.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Another neighborhood with outstanding architecture is Chatham Square.<br> The Kimlau Memorial Arch,
-                    honoring
-                    Chinese American troops who served in World War II, is located here.<br>
-                    With its complex carvings, red granite facade, and dragon patterns, the arch's striking design honors
-                    the history and sacrifices of the Chinese American community.<br>
-                    Doyers Street must be visited as well; otherwise, a trip to Chinatown would be lacking.<br> This
-                    alleyway,
-                    often known as the "Bloody Angle," has a colorful past connected to the Tong Gangs, Chinese American
-                    organized criminal gangs.<br>
+                    The subject of both structures is pushing the bounds of human achievement.<br>
+                    This comparison should also consider the Taj Mahal in Agra, India.<br> Built in the 17th century, this
+                    UNESCO World Heritage Site is a symbol of unending love.<br>
+                    The Taj Mahal's unmatched beauty is a result of its meticulous marble craftsmanship, impeccable
+                    symmetry, and the history of its construction.<br>
+                    The Taj Mahal's beauty and cultural importance infuse it with a feeling of peace and romanticism that
+                    contrasts with the Empire State Building's dominating presence.<br>
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Doyers Street's odd geometry, bent layout, and small buildings provide an eerie and interesting
-                    atmosphere, evoking a bygone period.<br>
-                    A stroll around Manhattan's Chinatown's interesting architecture exposes the area's ethnic history and
-                    distinctive personality.<br>
-                    Every step in Chinatown demonstrates a tribute to the rich cultural fabric of this thriving New York
-                    City neighborhood, from the delicately constructed temples and pagoda-inspired rooftops to the ancient
-                    buildings and colorful streets.<br>
+                    These buildings show that excellent architecture may take many different forms.<br>
+                    Moving away from historical relevance, it is impossible to ignore the Sydney Opera House in Australia, a
+                    masterpiece of contemporary architecture.<br>
+                    It is a classic illustration of imagination and inventiveness, created by Danish architect Jr.
+                    Utzon.<br>
+                    The clever sail-like shape of the Opera House has made it one of the most recognizable buildings in the
+                    world and has come to represent Sydney.<br>
+                    In terms of shape, purpose, and cultural expression, this building is in sharp contrast to the Empire
+                    State Building, yet both serve as examples of how architecture can alter a space.<br>
+                </p>
+            </div>
+            {{-- parag --}}
+            <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <h3 id="museum">A museum library inside the structure</h3>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The library has a sizeable collection of manuscripts, historical relics, and other works of literature,
+                    in addition to rare books.<br>
+                    Other research tools are available at the library.<br> databases used by academics, digital archives,
+                    and
+                    internet sources Inside Empire State Building, Manhattan New York City, lies the Empire State Building
+                    Observatory, a museum with exhibits on the history of the building.<br>
+                    On display are examples of animated films, interactive exhibits, and historical artifacts.<br> Visitors
+                    may
+                    also see a brief movie on the history and construction of the building.<br>
+                </p>
+            </div>
+            {{-- parag --}}
+            <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <h3 id="Restaurants">Restaurants inside the Empire State Building, Manhattan New York City</h3>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building, Manhattan New York City, is home to several restaurants, including the
+                    well-known State Grill and Bar, which offers a wide selection of mouthwatering delicacies.<br>
+                    A specialty bar at the institution serves a broad range of drinks and local beers.<br>
+                    The 67th story of the structure houses Top of the Rock, the most well-known eatery in NYC, which offers
+                    breathtaking views of the city's skyline.<br> A renowned eatery is housed in the building.<br>
+                    Inside the Empire State Building, there are several stores that sell mementos, reading material, and
+                    other historical items.<br> copies of the structure, t-shirts, and postcards, and the public can buy
+                    more
+                    mementos.<br>
                 </p>
             </div>
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Important and famous museums and temples, Chinatown, Manhattan New York City</h5>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Festival near Museum in Chinatown, Manhattan New York City.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">
-                        Festival near Museum in Chinatown, Manhattan New York City </small>
-                </div>
-
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The thriving and active neighborhood of Chinatown, Manhattan New York City is home to several important
-                    cultural sites.<br>
-                    Several significant temples and museums that highlight the long history and rich culture of the Chinese
-                    American population are included in this list of landmarks.<br>
-                </p>
-                <ul class=" wow bounce" data-wow-delay="0.1s">
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s"> The Mahayana Buddhist Temple, which is situated on
-                        133 Canal Street, is one of
-                        Chinatown's best-known temples.<br>
-                        The distinctive feature of this temple is that it accommodates both Buddhist and Taoist
-                        worshippers.<br>
-                        It is also well known for its remarkably elaborate interior.<br>
-                        Intricate sculptures, statues of heavenly creatures, and vibrant paintings illustrating tales from
-                        Buddhist and Taoist mythology are on display for visitors to see.<br>
-                        The temple also houses a gift shop where guests may buy mementos and religious items.<br>
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">The Chatham Square Cemetery, which is situated on
-                        St. James Place, is another
-                        significant shrine in Chinatown.<br>
-                        One of the oldest Chinese cemeteries still in existence in the United States, this cemetery was
-                        built in the 19th century.<br>
-                        may explore the rich history of the city's early Chinese immigrants and pay respect to those who
-                        shaped the neighborhood.<br>
-                    </li>
-                </ul>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    In addition to temples, Chinatown is well-known for its museums.<br> One such institution is the Museum
-                    of
-                    Chinese in America (MOCA), which is located at 215 Centre Street.<br>
-                    MOCA celebrates the history, culture, and experiences of Chinese people in America via a variety of
-                    exhibitions and interactive displays.<br>
-                    Visitors can learn about the challenges that Chinese Americans have faced as well as the contributions
-                    they have made to the country.<br>
-                    The New York Chinese Cultural Center (NYC), a famous museum in Chinatown, Manhattan New York city is
-                    built on 137 Henery Street.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    This museum is devoted to displaying Chinese art and culture via exhibitions, workshops, and
-                    performances of traditional dance and song.<br>
-                    Chinese calligraphy, dancing, and traditional music are all available for tourists to learn about.<br>
-                    In general, these Chinatown temples and museums provide travelers with a unique opportunity to learn
-                    about the rich history and culture of the Chinese American community.<br>
-                    This vibrant neighborhood has something for everyone to enjoy and appreciate, from ornate temples to
-                    interactive museums.<br>
-                </p>
-            </div>
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Chinatown, Manhattan New York City is home to several museums and temples. To name a few:</h5>
-                <ul class=" wow bounce" data-wow-delay="0.1s">
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">Museum of Chinese in America: Located at 215 Center
-                        Street, New York, NY 10013.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Mahayana Buddhist Temple: Located at 133 Canal Street, New York, NY 10002.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Confucius Plaza: Located at Bowery and Canal Streets, New York, NY 10002.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Chinatown Manpower Project: Located at 70 Mulberry Street, 3rd Floor, New York, NY 10013.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Eastern States Buddhist Temple of America: Located at 64 Mott Street, New York, NY 10013.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        The New York Chinese Scholar’s Garden: Located at 1000 Richmond Terrace, Staten Island, NY 10301.
-                    </li>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Chatham Square Library: Located at 33 E. Broadway, New York, NY 10002.
-                    </li>
-                </ul>
-            </div>
-
-            {{-- parag --}}
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>Hotels in Chinatown, Manhattan New York City</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    One of Manhattan's most alive and exciting neighborhoods is Chinatown, Manhattan New York City.<br> It
-                    is renowned for its illustrious landmarks, mouthwatering cuisine, vibrant marketplaces, and rich Chinese
-                    heritage and culture.<br> A variety of lodging options, from pricey hostels to opulent hotels, may be
-                    found nearby.<br> We'll look
-                    at a few of the top hotels in Chinatown Manhattan, New York City, in this post.<br>
-                </p>
-                <ul class=" wow bounce" data-wow-delay="0.1s">
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">Museum of Chinese in America: Located at 215 Center
-                        Hotel 50 Bowery:
-                    </li>
-                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                        For those who wish to really experience Chinatown's bustling culture, this boutique hotel is
-                        ideal.<br>
-                        It is situated at 50 Bowery Street, just a short distance from the busy streets, stores, and
-                        eateries in the area.<br> Contemporary accommodations with breathtaking city views, a rooftop bar
-                        and
-                        restaurant, and first-rate services are all provided by the hotel.<br>
-                    </p>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Hotel Mulberry:
-                    </li>
-                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                        If you want a luxurious stay at an affordable price, Hotel Mulberry is the ideal choice.<br> This
-                        hotel
-                        is situated at 52 Mulberry Street and has free Wi-Fi, complimentary breakfast, and roomy
-                        accommodations.<br> Additionally, you may benefit from its closeness to well-known sights like Times
-                        Square, Central Park, and the Statue of Liberty.<br>
-                    </p>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        NobleDEN:
-                    </li>
-                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                        For those who wish to stay in the center of Chinatown, this chic boutique hotel is an excellent
-                        option.<br> The building, which is situated at 196 Grand Street, has a rooftop garden with a
-                        breathtaking view of the city skyline.<br> In addition, the hotel provides free Wi-Fi, a
-                        complimentary
-                        breakfast, and convenient proximity to places like Little Italy and SoHo.<br>
-                    </p>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        The Solita Soho Hotel:
-                    </li>
-                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                        Found at 159 Grand Street, this rich boutique hotel offers sumptuous housing with advanced
-                        comforts.<br>
-                        The hotel includes a complimentary breakfast buffet, free Wi-Fi, and a 24-hour fitness center.<br>
-                        It is
-                        additionally near well-known attractions such as the Brooklyn Bridge, the Metropolitan Museum of
-                        Art, and the Empire State Building.<br>
-                    </p>
-                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
-                        Walker Hotel Tribeca:
-                    </li>
-                    <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                        Although not officially in Chinatown, this hotel is close by and features a distinctive fusion of
-                        modern and historic design.<br> It has a rooftop bar with breathtaking views of the metropolitan
-                        skyline
-                        at 77 Walker Street.<br> The hotel also provides opulent extras like massages in rooms and a 24-hour
-                        fitness center.<br>
-                    </p>
-
-                </ul>
-            </div>
-            {{-- parag --}}
-
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h3 id="Chinatown">Chinatown, Manhattan New York City's business scene:</h3>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Paint Color in Street in Chinatown, Manhattan New York City.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">Paint Color in Street in Chinatown, Manhattan New York City</small>
-                </div>
-            </div>
-            {{-- parag --}}
-
-            <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h5>A brief history of Chinatown's business community</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The large influx of Chinese immigrants who entered the country during the California Gold Rush was
-                    chiefly responsible for the formation of Chinatown, Manhattan New York city.<br>
-                    Many Chinese immigrants sought safety in the East after experiencing widespread prejudice and violence
-                    on the West Coast, with a sizable portion finding their way to New York City.<br>
-                    They established close-knit groups and moved to the region that subsequently bore the name
-                    "Chinatown.<br>"
-                    Early on, the Chinese people lived and worked in small tenement houses, making Chinatown largely a
-                    residential area.<br>
-                    However, as the town expanded, so did the need for goods and services aimed at the populace.<br> Because
-                    of
-                    this, Chinatown's business community flourished.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Garment of clothing fabrication were one of Chinatown's first effective businesses.<br>
-                    Chinese workers, usually ladies, found work within the region's sweatshops that delivered pieces of
-                    clothing.<br>
-                    Chinatown's status as a center for the fabrication of pieces of clothing was molded by the clothing
-                    industry, which became a noteworthy source of work and financial action there.<br>
-                    In the long run, Chinatown's commercial community branched out past attire fabrication.<br>
-                    It presently incorporates a wide range of businesses, such as eateries, merchants, blessing shops,
-                    home-grown medication shops, and monetary teachers.<br>
-                    Chinatown's active roads are lined with colorful businesses that offer a wide range of products and
-                    services.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The lion's share of the businesses in Chinatown are eateries.<br> Various bona fide
-                    These eateries, which range from dim sum to noodle shops, have picked up notoriety among both locals and
-                    guests, including for Modern York City's flourishing culinary culture.<br>
-                    The business community in Chinatown is essential to maintaining and advancing Chinese culture.<br>
-                    Numerous cultural institutions, galleries, and stores offering ethnic apparel, crafts, and artwork are
-                    in the area.<br>
-                    These businesses act as significant cultural centers by giving the local population a place to celebrate
-                    and share their heritage.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Additionally, the business community in Chinatown is renowned for its strong sense of
-                    entrepreneurship.<br>
-                    Many companies are run and owned by families that have been around for many years.<br>
-                    Despite obstacles like rising rents and competition, Chinatown companies have thrived thanks to this
-                    sense of community and family values.<br>
-                    Gentrification and the COVID-19 pandemic's effects are only two of the difficulties Chinatown has had to
-                    deal with.<br>
-                    The resilient business community, on the other hand, keeps adapting and coming up with new strategies to
-                    survive.<br>
-
-                </p>
-
-            </div>
-
-
-            {{-- parag --}}
-
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h5>The impact of gentrification on Chinatown, Manhattan New York City's business</h5>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Canal Street in Chinatown, Manhattan New York City1.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">Canal Street in Chinatown, Manhattan New York City</small>
-                </div>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    For many years, Chinatown, Manhattan New York City has been a thriving center of both culture and
-                    commerce.<br>
-                    Gentrification difficulties, on the other hand, have significantly impacted on its enterprises in recent
-                    years.<br>
-                    The term "gentrification" describes the urban regeneration process, which frequently entails the inflow
-                    of wealthy people and companies into lower-income neighborhoods.<br>
-                    While it has certain advantages, including better infrastructure and more investment, it also poses
-                    several risks to the current neighborhood.<br>
-                    Chinatown is renowned for its assortment of eateries, markets, and specialized stores.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    These businesses have long served as the foundation of the neighborhood by giving locals access to real
-                    cultural experiences and job possibilities.<br>
-                    rents and property values, however, have already started to drive out many small business owners because
-                    of gentrification.<br>
-                    Certain areas of Chinatown have changed because of the introduction of posh stores, hip cafés, and
-                    luxury real estate projects.<br>
-                    The traditional flavor and affordability that Chinatown formerly offered have been disturbed, even if
-                    this may bring in a new generation of tourists and inhabitants.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Due to rising rental prices, many long-time residents and business owners who have formed the foundation
-                    of the neighborhood now run the risk of being displaced.<br>
-                    Furthermore, gentrification's effects go beyond just economic ones.<br> For the Asian-American
-                    community,
-                    Chinatown has traditionally acted as a center of culture, giving people a sense of connection and
-                    belonging.<br> The neighborhood's tradition and cultural character might, however, be lost if new
-                    companies
-                    and residents move in.<br>
-                    The shifting tastes and preferences of a gentrifying population may make it difficult for traditional
-                    enterprises and practices to remain competitive.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    A complicated topic is how gentrification affects Chinatown's businesses.<br>
-                    On the one hand, thanks to the neighborhood's restoration initiatives, there has been an increase in
-                    visitor traffic and consumer expenditure.<br>
-                    Some businesses have profited from this, especially those that provide distinctive experiences or cater
-                    to the shifting demography.<br>
-                    The failure of certain firms to adapt or absorb the rising expenses has resulted in closures and a loss
-                    of variety in the neighborhood
-                    Diverse community organizations, activists, and officials have taken action to protect Chinatown's
-                    distinctive identity and accessibility to combat the effects of gentrification.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    This includes promoting inexpensive housing, encouraging small enterprises, and launching efforts for
-                    cultural preservation.<br>
-                    To generate a sense of community and advance economic growth, partnerships and cooperation with
-                    neighboring neighborhoods have also been developed.<br>
-                    The establishments in Manhattan's Chinatown have been significantly impacted by gentrification.<br>
-                    While some conventional businesses have prospered in the changing environment, many have had to deal
-                    with increased prices and the possibility of being replaced.<br>
-                    For Chinatown's future, finding a balance between the preservation of cultural history, affordability,
-                    and economic expansion continues to be a major problem.<br>
-
-                </p>
-
-
-            </div>
-            {{-- parag --}}
-
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h5>Overview of The Current Business scene</h5>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Street in Chinatown, Manhattan New York City1.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">Street in Chinatown, Manhattan New York City</small>
-                </div>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The dynamic and active neighborhood of Chinatown, Manhattan New York City, is well-known for its
-                    diversified food scene, busy streets, and rich cultural legacy.<br>
-                    As of right now, the Chinatown neighborhood of Manhattan is home to a variety of old and modern
-                    enterprises, representing the community's development and change.<br>
-                    The variety of tiny, family-run businesses in Chinatown, including its stores and eateries, is one of
-                    its distinguishing characteristics.<br>
-                    You may find many grocery stores, herbal medicine stores, bakeries, and specialized shops along the
-                    bustling streets that sell a variety of Chinese products and services.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    For many years, these establishments have supported Chinatown's economy by serving both the local
-                    Chinese community and visitors.<br>
-                    Additionally, Chinatown has seen an increase in the number of new companies opening in recent years.<br>
-                    These include hip cafés that serve a younger, more varied audience, fashionable bubble tea businesses,
-                    and contemporary Asian fusion restaurants.<br>
-                    These brand-new businesses infuse the area with new life and draw tourists from all around the city in
-                    addition to residents.<br>
-                    A wide variety of dining alternatives are available for food lovers in Chinatown's thriving restaurant
-                    sector.<br>
-                    There are several restaurants serving traditional Chinese food, including anything from hand-pulled
-                    noodles to dim sum.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Additionally, you may locate restaurants that serve food from other Asian nations, including Vietnam,
-                    Thailand, and Japan.<br>
-                    The eating options in Chinatown are varied and accommodate different interests and budgets, ranging from
-                    tiny, hole-in-the-wall eateries to bigger, more affluent restaurants.<br>
-                    Chinatown has seen its fair share of difficulties recently, primarily because of the COVID-19
-                    outbreak.<br>
-                    Businesses in Chinatown, like many other neighborhoods in New York City, have had to adjust to changing
-                    conditions.<br>
-                    To safeguard their customers' safety, retailers have introduced safety precautions, and many eateries
-                    now provide takeout and delivery choices.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    In addition, the Chinatown neighborhood has organized initiatives to help neighborhood businesses,
-                    demonstrating great resiliency.<br>
-                    There have been advertisements promoting dining and shopping in Chinatown, stressing the value of
-                    helping the neighborhood through these difficult times.<br>
-                    Chinatown, Manhattan's present business landscape, is a fusion of traditional and modern components.<br>
-                    This vibrant area is still a center for business, cross-cultural interaction, and gastronomic
-                    treats.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown Manhattan provides a distinctive and educational experience, whether you're looking for a
-                    taste of traditional Chinese food, seeking exotic ingredients, or simply immersing yourself in the
-                    lively ambiance.<br>
-                </p>
-
-
-            </div>
-            {{-- parag --}}
-
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h3 id="NYC'shistory">Chinatown, Manhattan New York City's role in NYC's history</h3>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/East Canal Chinatown, Manhattan New York city.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block"> East Canal Chinatown, Manhattan New York city</small>
-                </div>
-            </div>
-            {{-- parag --}}
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h5>Overview of Chinatown, Manhattan New York City's significance in NYC's history </h5>
-
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown, Manhattan New York City is tucked away in the thriving borough of New York City and has a
-                    major history there.<br>
-                    Chinatown, which has a history that dates to the middle of the 1800s, has developed into an iconic
-                    neighborhood that represents the experience of Chinese Americans and promotes cultural diversity in the
-                    city.<br>
-                    The waves of Chinese immigrants who descended upon New York in the middle of the 19th century are said
-                    to be the genesis of Chinatown.<br>
-                    They moved gradually to what we now know as Chinatown after initially settling in the Five Points
-                    neighborhood of lower Manhattan.<br> These immigrants experienced a wide range of difficulties,
-                    including
-                    prejudice, language problems, and constrained economic prospects.<br> However, they were able to create
-                    a
-                    vibrant neighborhood that was essential to forming New York City's cultural landscape.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The vivid cultural character of Chinatown is one of its most important historical features.<br>
-                    It offers guests a distinctive experience by embodying Chinese traditions, customs, and food.<br>
-                    Traditional markets, tea houses, genuine restaurants, and specialist stores selling a variety of Chinese
-                    goods may be found in this area.<br>
-                    Chinatown is incredibly vibrant, teeming with activity, colorful, and filled with the enticing smells of
-                    wonderful cuisine.<br>
-                    The significance of this community's culture is further highlighted through holidays like Chinese New
-                    Year and the Moon Festival.<br>
-                    Another center of social and political action has been Chinatown.<br> The neighborhood's people have
-                    battled
-                    many injustices throughout the years, such as unequal laws and working conditions.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Since its founding in 1883, organizations like the Chinese Consolidated Benevolent Association have
-                    played a crucial role in promoting the welfare and rights of the Chinese American community, both inside
-                    Chinatown and outside of it.<br>
-                    Chinatown has been essential to New York City's economic development.<br> It has served as a hub for
-                    local
-                    enterprises, including grocers, restaurants, and import-export companies.<br>
-                    These companies not only meet the requirements of the neighborhood but also draw tourists and others who
-                    want to experience real Chinese culture.<br>
-                    Additionally, Chinatown has had a big impact on the city's architectural landscape.<br> The neighborhood
-                    is
-                    characterized by its congested streets, tenement houses, and traditional Chinese design.<br>
-                    Doyers Street, recognized for its distinctive curves and historical significance, and the Mahayana
-                    Buddhist Temple, the oldest Buddhist temple in New York City, are two important structures.<br>
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown is continuously growing nowadays while keeping its rich historical origins.<br> It continues
-                    to be
-                    a nexus of cultures, luring travelers from many horizons to benefit from its unique attractions.<br>
-                    Beyond its borders, the neighborhood is noteworthy as an example of ethnic diversity, a strong
-                    community, and the lengthy history of New York City.<br>
-                    With its distinct charm and extensive history, Chinatown continues to make a significant contribution to
-                    the flavor of the city.<br>
-
-                </p>
-            </div>
-
-
-            {{-- parag --}}
-
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h5>Chinatown, Manhattan New York City's role in Civil Rights Movement</h5>
-                <div class="col-12 col-lg-4 mx-auto">
-                    <!-- Centered image with text -->
-                    <img class="w-100 p-2"
-                        src="{{ asset('images/Chinatown/Paint Color in Street in Chinatown, Manhattan New York City2.jpg') }}"
-                        class="img-fluid" alt="Article Image">
-                    <small class="text-center d-block">Paint Color in Street in Chinatown, Manhattan New York City</small>
-                </div>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-
-                    The civil rights movement has been heavily influenced by Chinatown, Manhattan New York City, throughout
-                    its history.
-                    Chinatown has been a thriving neighborhood that has overcome several obstacles and campaigned for
-                    equality and justice for its citizens. It is one of the largest and oldest ethnic enclaves in America.
-                    In the nineteenth and early twentieth centuries, Chinese foreigners confronted biased legislation such
-                    as the Chinese Exclusion Act of 1882, which disallowed the entry of Chinese laborers.
-                    As a result of this act, Chinese Americans were treated unjustly, and their rights and opportunities
-                    were limited.
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-
-                    Despite these challenges, the inhabitants of Chinatown joined together, formed neighborhood
-                    organizations, and battled for their civil rights.
-
-                    The "Chinatown Garment Center Workers' Struggle" demonstration against police brutality in 1975 was one
-                    of the significant civil rights turning points in Chinatown's history.
-                    Chinese textile workers organized protests and strikes to demand improved working conditions and fair
-                    pay after being subjected to exploitation and unfair labor practices.
-                    The call for justice was heard not just by Chinese people but also by people from other ethnic groups,
-                    raising awareness of workers' rights and labor abuses.
-                    The struggle against gentrification and urban redevelopment was a crucial phase in Chinatown's civil
-                    rights movement.
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    The city planned extensive reconstruction initiatives in the 1960s and 1970s that posed a danger to the
-                    modest businesses and people of Chinatown.
-                    Through grassroots organizing and campaigning, activists and community leaders were able to effectively
-                    thwart some of these proposals and maintain the neighborhood's cultural and historical integrity.
-                    This conflict made clear the value of neighborhood representation and gave locals more ability to
-                    influence neighborhood growth.
-                    In addition, Chinese Americans around the country, particularly those in Chinatown, mobilized to spread
-                    awareness about hate crimes and prejudice in the wake of the sad murder of Vincent Chin in 1982.
-                    The incident brought attention to the discrimination and violence that Asian Americans must endure.
-                    Residents of Chinatown took an active role in protests, marches, and discourse to combat prejudice and
-                    foster respect for other groups.
-                    Chinatown has been actively involved in civil rights activities in recent years, notably those
-                    pertaining to immigrant rights.
-
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Many people in Chinatown, which has a sizable immigrant population, have been impacted by immigration
-                    laws and have advocated for fair and compassionate treatment of immigrants.
-                    Organizations in Chinatown offer immigrants assistance and legal services, fight for comprehensive
-                    immigration reform, and oppose laws that split up families or hurt disadvantaged groups.
-                    Civil rights advocacy in New York City's Chinatown have a long history.
-                    The people of Chinatown have continually battled for equality, justice, and the preservation of their
-                    neighborhood, from early campaigns against discriminatory laws, labor exploitation, gentrification, and
-                    hate crimes to modern activism for immigrant rights.
-                    Chinatown continues to make substantial contributions to the civil rights movement via collective
-                    action, community organizing, and solidarity with other marginalized groups, having a long-lasting
-                    effect on both its citizens and the country.
-
-                </p>
-                <div class="row ">
-                    <div class="col-12 col-lg-5 mx-auto video_1 ">
-                        <video autoplay muted loop id="myVideo_1">
-                            <source class="" src="{{ asset('images/Chinatown/VOD_20221229_162039.mp4') }}"
-                                type="video/mp4">
-                        </video>
+                <h3 id="night">Empire State Building, Manhattan New York City at night</h3>
+                <div class="row d-flex justify-content-center ">
+                    <div class="col-12 col-lg-4  wow bounce" data-wow-delay="0.01s">
+                        <!-- Right third with an image -->
+                        <img class="w-100 p-2 h-75" onContextMenu="return false;"
+                            src="{{ asset('images/empire_state/Empire State Building, Manhattan New York City8.jpg') }}"
+                            alt="Article Image">
+                        <small class="text-center d-block">Empire State Building, Manhattan New York City</small>
                     </div>
                 </div>
-
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    In the center of Manhattan, NYC, Empire State Building, Manhattan New York City, is a towering and
+                    magnificent structure.<br>
+                    It is a recognizable representation of the city's great architecture and rich history.<br>
+                    The Empire State Building changes into a stunning display of lights as the sun sets and night falls
+                    over the city, dazzling both residents and tourists.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    It's breathtaking to see the Empire State Building's light show.<br> It makes the ideal canvas for a
+                    stunning variety of colors and patterns thanks to its sheer height and distinctive Art Deco
+                    form.<br>
+                    The lighting show is a dynamic spectacle that commemorates many occasions, holidays, and significant
+                    events all year.<br>
+                    The Empire State Building's custom of commemorating holidays is one of its most noteworthy lighting
+                    displays.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Christmas, New Year's Eve, and Independence Day are just a few examples of holidays when the famous
+                    tower dons’ festive colors that make people feel happy and excited.<br>
+                    The Empire State Building provides a magical ambiance that captures the spirit of the holidays,
+                    whether it's the Christmas red and green colors, the New Year's Eve brilliant fireworks-inspired
+                    lights, or the Independence Day patriotic red, white, and blue.<br>
+                    In addition to celebrating festivals, the Empire State Building illumination show frequently honors
+                    important occasions and causes.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    For instance, as a show of support for Breast Cancer Awareness Month in October, the structure glows
+                    its spire in a gentle pink hue.<br>
+                    In addition to spreading awareness, this act also serves as a potent reminder of the fortitude and
+                    resiliency of people who are afflicted by this illness.<br>
+                    Through its lighting show, the Empire State Building also celebrates diversity and honors cultural
+                    occasions.<br>
+                    The structure emits a vivid green glow on special events like St.Patrick's Day, evoking the
+                    spirit
+                    of the Irish history commemorated on this day.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Like this, throughout the Lunar New Year celebrations, the building is bathed in hues of crimson and
+                    gold, signifying good fortune, wealth, and happiness for the next year.<br>
+                    The Empire State Building's lighting show features a constantly changing palette of hues and
+                    patterns that capture the vibrant energy of the city, in addition to marking certain occasions and
+                    holidays.<br>
+                    The building's illumination is a visual feast for onlookers, with pulsing lights that give the
+                    impression of movement and static displays that accentuate architectural elements.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Modern LED lights have been installed, enabling the Empire State Building's illumination
+                    display.<br>
+                    These lights provide a wide range of colors and programmable possibilities in addition to being
+                    energy-efficient, enabling designers to create unique and dynamic lighting schemes.<br>
+                    The elaborate patterns and vibrant displays that the LED lights can produce serve to highlight the
+                    structure's architectural magnificence.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The lighting show on the Empire State Building has more meaning than just its aesthetic appeal.<br>
+                    It
+                    represents solidarity, resiliency, and optimism for the people of NYC and beyond.<br>
+                    The constantly shifting hues and patterns serve as a source of joy and inspiration, serving as a
+                    constant reminder of the city's tenacity in the face of adversity.<br>
+                    You cannot help but be in amazement and appreciation as you observe the Empire State Building's
+                    stunning lighting show at night.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    It is evidence of the city's vivacious vitality and unyielding will.<br>
+                    The Empire State Building lighting show is a spectacle that will always remain in your mind, leaving
+                    an irrevocable impression of the unparalleled beauty and majesty of this renowned monument, whether
+                    you are strolling through the busy streets or observing it from a distance.<br>
+                </p>
+            </div>
+            {{-- parag --}}
+            <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <h3 id="special">Overview of special events hosted at the building at night.</h3>
+                <div class="row d-flex justify-content-center ">
+                    <div class="col-12 col-lg-4  wow bounce" data-wow-delay="0.01s">
+                        <!-- Right third with an image -->
+                        <img class="w-100 p-2 h-75" onContextMenu="return false;"
+                            src="{{ asset('images/empire_state/Empire State Building, Manhattan New York City at Night.jpg') }}"
+                            alt="Article Image">
+                        <small class="text-center d-block">Empire State Building, Manhattan New York City at Night</small>
+                    </div>
+                </div>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Empire State Building, Manhattan New York City is among Manhattan's most recognizable monuments.<br>
+                    This
+                    architectural marvel, 1,454 feet tall, has long mesmerized both tourists and residents.<br>
+                    The Empire State Building intrigues throughout the day but comes alive at night when it hosts events
+                    that add a magical touch to its already spectacular presence.<br>
+                    The Empire State Building transforms into a beacon of light as the sun sets and the city lights up,
+                    luring people in with its alluring radiance.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    A breathtaking site that creates a lasting impact on those who are lucky enough to experience it, the
+                    structure has played host to various spectacular events throughout the years.<br>
+                    The yearly ceremonial lighting of the Empire State Building for various holidays and significant days is
+                    arguably one of the most well-known ceremonies held there at night.<br>
+                    The tower brightens the Manhattan skyline with brilliant and spectacular colors for special events
+                    including New Year's Eve, Christmas, Independence Day, and Veterans Day.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Visitors get a rare opportunity to experience these stunning displays up close and personally thanks to
+                    the observatory deck, which is typically available to the public.<br>
+                    The Empire State Building, Manhattan New York City, has also been known to hold upscale meetings and
+                    charity events aside from these regular occasions.<br>
+                    This renowned location has been chosen by many organizations and charities to host their galas, lending
+                    grace and majesty to their cause.<br>
+                    The Empire State Building offers a stunning backdrop for these memorable events, whether it is a glitzy
+                    gala or a private cocktail party.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    An important organization devoted to environmental protection staged a fundraiser banquet at the Empire
+                    State Building, which was a memorable event there.<br>
+                    The gathering of prominent people, scientists, and philanthropists from all around the world was done to
+                    spread awareness about climate change.<br>
+                    The structure was decorated with environmentally friendly lighting displays, videos of threatened
+                    species, and exhibits of green technologies.<br>
+                    The observatory deck of Empire State Building, Manhattan New York City is a crucial component of any
+                    event held at night.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    It provides event attendees with a mesmerizing backdrop of shimmering city lights with its panoramic
+                    views of Manhattan, creating a mood that is nothing short of extraordinary.<br>
+                    The deck also gives visitors a chance to interact with the city and feel the spirit that makes New York
+                    so distinctive.<br>
+                    To further enhance the event experience, Empire State Building, Manhattan New York City has recently
+                    experimented with interactive displays and projection mapping technologies.<br>
+                    Artists use the building's façade as a canvas to create spectacular works of moving art.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    This blending of technology and creativity produces an immersive atmosphere that engages the senses and
+                    gives the event a feeling of surprise and amazement.<br>
+                    putting on lighting shows, presenting pictures of threatened species, and showcasing eco-friendly
+                    inventions.<br>
+                    The nighttime special events at the Empire State Building provide a singular and remarkable
+                    experience.<br>
+                    This architectural marvel serves as a platform for charm and opulence throughout everything, from its
+                    yearly lighting rituals to private galas and fundraising events.<br>
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Innovative technology and artistic exhibits raise the ambiance to new heights against the gorgeous
+                    backdrop of the observation deck, which offers breathtaking views of the city.<br>
+                    Anyone who is fortunate enough to go to an event in the Empire State Building at night will never forget
+                    the experience.<br>
+                </p>
 
             </div>
 
             {{-- parag --}}
-            <div class="wow bounce" data-wow-delay="0.1s">
-                <h5>The contributions of Chinatown, Manhattan New York City to NYC's cultural diversity</h5>
-
+            <div class="wow bounce my-3 " data-wow-delay="0.1s">
+                <h3 id="impact">Empire State Building, Manhattan New York City's impact on NYC</h3>
+                <div class="row d-flex justify-content-center ">
+                    <div class="col-12 col-lg-4  wow bounce" data-wow-delay="0.01s">
+                        <!-- Right third with an image -->
+                        <img class="w-100 p-2 h-75" onContextMenu="return false;"
+                            src="{{ asset('images/empire_state/Empire State Building, Manhattan New York City.jpg') }}"
+                            alt="Article Image">
+                        <small class="text-center d-block"> Empire State Building, Manhattan New York City View from 5
+                            Avenue &31 street</small>
+                    </div>
+                </div>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown, Manhattan New York City's is a thriving neighborhood that has significantly enriched the
-                    city's cultural variety.<br>
-                    Chinatown has developed into a center for the Chinese American community and a representation of
-                    multiculturalism because of its lengthy history and distinctive traditions.<br>
-                    In this 400-word essay, we will examine Chinatown's contributions to NYC's cultural variety.<br>
-                    Chinatown's culinary offerings are among the most notable cultural contributions to NYC.<br>
-                    The area is renowned for its broad selection of authentic Chinese eateries that provide a wide range of
-                    regional cuisines.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    From dim sum to Peking duck, Chinatown has developed into a foodie haven that draws both locals and
-                    visitors.<br>
-                    These delectable dishes not only satiate the palate but also acquaint tourists with the distinctive
-                    flavors of Chinese culture.<br>
-                    Additionally, Chinatown is very important in promoting cultural festivals and activities.<br>
-                    The area regularly holds exciting events like the Autumn Moon Festival and the procession for the Lunar
-                    New Year.<br>
-                    By showcasing traditional Chinese practices, entertainment, and creative expressions, these occasions
-                    foster mutual respect and understanding among New York City's many ethnic groups.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Additionally, the activities in Chinatown have a magnetic pull that draws visitors from many backgrounds
-                    who want to learn about and respect Chinese culture.<br>
-                    In addition, Chinatown, Manhattan New York City is home to many cultural organizations that support and
-                    preserve Chinese history.<br>
-                    For instance, the Museum of Chinese in America (MOCA) displays artifacts, works of art, and records that
-                    illustrate the history and accomplishments of Chinese Americans.<br>
-                    The museum promotes a greater knowledge of Chinese culture and its role in forming New York City's
-                    identity while acting as an educational resource for both residents and visitors.<br>
-                </p>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Furthermore, Chinatown has an impact outside of its immediate area.<br> Both locals and visitors alike
-                    enjoy
-                    visiting the neighborhood's bustling market and distinctive stores.<br>
-                    Chinese products come in a variety of forms, from trinkets and handcrafted things to traditional herbs
-                    and drinks.<br>
-                    These companies not only boost the local economy but also provide customers with the chance to discover
-                    and appreciate Chinese beauty and workmanship.<br>
-                    Finally, Chinatown acts as a hub for civic participation and solidarity.<br> The needs of the locals are
-                    met
-                    by a variety of community organizations, which offer social services, medical care, and educational
-                    opportunities.<br>
-
+                    It continues to be a significant commercial structure today, housing several sectors like banking,
+                    media, and technology.<br>
+                    In addition to generating jobs, Empire State Building, Manhattan New York city, has improved the local
+                    economy by drawing tourists from all over the world.<br>
+                    The Empire State Building, Manhattan New York city, has been essential to Manhattan's cultural
+                    advancement.<br>
+                    This famous building has been immortalized in innumerable films, television series, and works of art and
+                    has come to represent the cultural environment of New York City.<br>
+                    Millions of people have flocked to its observation decks, which are situated on the 86th and 102nd
+                    floors, in search of breath-taking city vistas.<br>
 
                 </p>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    These programs enhance a sense of community and promote inclusion, transforming Chinatown into a vibrant
-                    and peaceful area within the city's varied fabric.<br>
-                    Chinatown in Manhattan has made a substantial contribution to New York City's rich cultural variety.<br>
-                    Chinatown has developed into an energetic emblem of the Chinese American community with its culinary
-                    offerings, cultural events, institutions, marketplace, and community involvement.<br>
-                    It provides access for tourists to truly learn and appreciate the Chinese culture, as well as the
-                    contributions of the Chinese diaspora to the larger New York City community.<br>
+                    The building's prominence as a tourist destination has created a platform for cross-cultural dialogue
+                    and strengthened ties between residents and tourists.<br>
+                    Additionally, the Empire State Building has participated in several charitable and community service
+                    activities.<br>
+                    Since 1978, the annual Empire State Building Run-Up has generated money for several charitable
+                    organizations by having participants ascend the steps to the observation deck.<br>
+                    Holiday or commemorative light shows on the structure have also become a cherished tradition, entrancing
+                    both locals and visitors.<br>
+
                 </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Empire State Building, Manhattan New York City, which is situated in Manhattan, New York City, has had a
+                    significant historical influence on the growth and economics of the area.<br>
+                    This well-known skyscraper has developed into a landmark of New York City and a popular tourist
+                    destination.<br>
+                    It has played a significant role in the city's economic development throughout the years, in addition to
+                    shaping the city's skyline.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    When the Empire State Building was finally finished in 1931, it rapidly became a symbol of American hope
+                    and development amid the Great Depression.<br>
+                    Its development provided the city with employment prospects and economic assistance by generating
+                    thousands of jobs for the labor force in need.<br>
+                    The project restored New Yorkers' trust and optimism during a trying time by pumping much-needed dollars
+                    into the local economy.<br>
+                    The Empire State Building's economic influence is extensive and covers a wide range of areas.<br>
+                    The tourist industry is one of the main forces.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building makes a substantial contribution to the travel and tourism sectors in New York
+                    City by bringing in millions of tourists each year.<br>
+                    Visitors from all over the world go to the observation decks on the 86th and 102nd levels to take in the
+                    mesmerizing metropolitan vistas.<br>
+
+                    This increase in tourists has a significant economic knock-on impact that helps small local companies,
+                    including lodging facilities, dining establishments, gift stores, transportation providers, and
+                    others.<br>
+
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Additionally, the Empire State Building makes money by serving business needs.<br>
+                    The structure's multiple office spaces attract a variety of companies and organizations.<br>
+                    The city's economy benefits from the rental money received from these business tenants.<br> The
+                    building's
+                    gift stores, retail areas, and observation decks all contribute to its overall financial impact.<br>
+
+                    The Empire State Building's presence has sparked urban growth in the neighborhood.<br> Midtown
+                    Manhattan,
+                    the area next to the skyscraper, has prospered because of the infusion of companies, greater foot
+                    traffic, and improved infrastructure.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The structure has attracted business and investment, resulting in the development of hotels,
+                    restaurants, and other services close by.<br> In addition to enhancing Manhattan's appeal, this
+                    construction
+                    has boosted the local economy and provided job possibilities.<br>
+
+                    The Empire State Building's innovative design and engineering achievements have impacted skyscraper
+                    buildings all around the world.<br>
+                    Its influence went beyond NYC, encouraging the construction of towering structures in other significant
+                    cities and influencing the design of contemporary cities.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building also acts as a brilliant example of sustainability.<br>
+                    The structure underwent major energy-efficient improvements in recent years, making it a prime example
+                    of green retrofitting.<br>
+
+                    In addition to lowering the building's environmental impact, this dedication to sustainability has made
+                    it a role model for energy-efficient urban construction.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The adoption of comparable practices by other buildings because of the installation of these steps has
+                    advanced the city's sustainability objectives and benefited the economy through lower energy
+                    expenditures.<br>
+
+                    In Manhattan, NYC, the Empire State Building has had a significant economic influence.<br>
+                    During a time of economic hardship, its construction created jobs, boosted the local economy, and helped
+                    rekindle optimism.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    It remains a popular tourist destination and brings in millions of people each year, which helps a
+                    variety of tourism-related enterprises.<br>
+                    The building's commercial use provides substantial money, and its impact on nearby urban development has
+                    boosted the local economy.<br>
+
+                </p>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    Further boosting the city's economy and prestige are the Empire State Building's architectural
+                    importance, environmental initiatives, and international prominence.<br> Overall, the Empire State
+                    Building
+                    is a symbol of the tenacity, vigor, and cultural history of NYC.<br>
+                </p>
+            </div>
+            {{-- parag --}}
+            <div class="my-3 wow bounce" data-wow-delay="0.1s">
+                <h3 id="places">Important places near the Empire State Building, Manhattan New York City</h3>
+
+                <ul class=" wow bounce" data-wow-delay="0.1s">
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Bryant Park, a popular park close to the Empire State Building, is well known for its beautiful
+                        landscaping and events like outdoor movie nights.<br>
+                        A few streets away from the Empire State Building lies the New York Public Library, one of the
+                        biggest and most exquisite specimens of Beaux-Arts architecture in libraries worldwide.<br>
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        Times Square: A few streets north of the Empire State Building, this region is renowned for its neon
+                        signs and spectacular lights.<br>
+                        The "ball drop" takes place every New Year's Eve.<br>
+                    </li>
+                    <li class="mb-2 wow bounce" data-wow-delay="0.1s">
+                        A few blocks to the north of it is the Rockefeller Center, an illustrious collection of buildings
+                        that houses several well-known attractions, including the Empire State Building.<br>
+                    </li>
+                </ul>
             </div>
             {{-- Qus --}}
             <div class="wow bounce my-3 " data-wow-delay="0.1s">
-                <h3 id="questions">Here are the most asked questions:</h3>
+                <h3 id="questions">The Empire State Building questions and answers:</h3>
                 <h4>FAQ:</h4>
 
-                <h5>Where can I find best Chinese food in Chinatown, Manhattan New York City?</h5>
+                <h5> When was the public given access to the Empire State Building, Manhattan New York City?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Chinatown is renowned for its diverse and delicious Chinese cuisine.<br> You can find excellent food
-                    options
-                    on Mott Street, Pell Street, and the Bowery.<br> Some famous restaurants include Jing Fong, Wo Hop, and
-                    Nom
-                    Wah Tea Parlor.<br>
+                    On May 1, 1931, the Empire State Building was officially inaugurated.<br>
                 </p>
 
-                <h5>Are there any traditional Chinese festivals celebrated in Chinatown?</h5>
+                <h5>What is the Empire State Building's height?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Sure, Chinatown hosts various traditional Chinese
-                    festivals throughout the year.<br> The Lunar New Year celebration, held in late January or early
-                    February,
-                    is one of the most vibrant and exciting festivals in the neighborhood.<br>
+                    When incorporating its lightning rod, the Empire State Building's height is 1,454 feet (443.2
+                    meters).<br>
                 </p>
 
-                <h5> Is bargaining common in Chinatown, Manhattan New York City?</h5>
+                <h5> How many floors does the Empire State Building, Manhattan New York City have?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Bargaining is not as common in Chinatown as it might be in some other countries.<br> However, in certain
-                    shops or with street vendors, you may be able to negotiate a lower price, especially if you're buying
-                    multiple items.<br>
+                    There are observation decks on the 86th and 102nd levels of the Empire State Building, which has 102
+                    floors overall.<br>
                 </p>
 
-                <h5> What other cultures are represented in Chinatown, Manhattan New York City?</h5>
+                <h5>How long did the Empire State Building, Manhattan New York City take to build?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    While predominantly Chinese, Chinatown also showcases the influence of other Asian cultures.<br> You can
-                    find establishments representing Vietnamese, Thai, Malaysian, and other Asian communities within the
-                    neighborhood.<br>
+                    The Empire State Building was constructed from 1930 to 1931 in under 1 year, 45 days.<br>
                 </p>
 
-                <h5>Are there any walking tours available in Chinatown, Manhattan New York City?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">From 1892 until 1954, Ellis Island served as the primary
-                    Sure, you can find guided walking tours in Chinatown that provide historical and cultural insights into
-                    the neighborhood.<br>
-                    Some tours focus specifically on the culinary scene, while others cover the broader history of the
-                    area.<br>
+                <h5>Which architects oversaw the creation of the Empire State Building?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">From 1892 until 1954, Ellis Island served as the
+                    The architect William F. Lamb of the company Shreve, Lamb & Harmon Associates created the Empire State
+                    Building.<br>
                 </p>
 
-                <h5>Can I visit nearby attractions from Chinatown, Manhattan New York City?</h5>
+                <h5>How many people were employed in the Empire State Building, Manhattan New York City's construction?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Absolutely, Chinatown is conveniently located near other popular attractions in Downtown Manhattan.<br>
-                    You
-                    can easily walk to places like Little Italy, the Lower East Side, and the Brooklyn Bridge.<br>
+                    In response, the Empire State Building's construction required about 3,400 employees.<br>
                 </p>
 
-                <h5>Is it easy to find Asian grocery stores in Chinatown, Manhattan New York City?</h5>
+                <h5>What was the Empire State Building's original purpose?</h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Yes, there are several Asian grocery stores in Chinatown where you can find a wide range of ingredients
-                    used in Chinese, Vietnamese, and other Asian cuisines.<br>
+                    The Empire State Building was first constructed as office space for several businesses and
+                    organizations.<br>
                 </p>
 
-                <h5>Are there any parks or green spaces in Chinatown, Manhattan New York City?</h5>
+                <h5>How many lifts does the Empire State Building, Manhattan New York City have? </h5>
                 <p class="px-3 wow bounce" data-wow-delay="0.1s">
-                    Columbus Park is a popular green space in Chinatown where you can relax, enjoy the outdoors, and observe
-                    locals practicing tai chi, playing traditional Chinese games, or participating in group exercises.<br>
+                    The Empire State Building contains 73 lifts in total.<br>
                 </p>
 
-                <h5>What is the best time to visit Chinatown, Manhattan New York City?</h5>
-                <p class="px-3 wow bounce" data-wow-delay="0.1s">Nearby attractions include Battery Park, where visitors
-                    Chinatown is bustling all year-round, but the Lunar New Year period is especially lively.<br> It's a
-                    great
-                    time to experience the festive atmosphere and witness the neighborhood's exciting celebrations.<br>
+                <h5> In what hues is the Empire State Building, Manhattan New York City lit up at night?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">Nearby attractions include Battery Park, where
+                    The Empire State Building is colored lit to commemorate numerous occasions and festivals.<br>
                 </p>
 
+                <h5> Has lightning ever struck the Empire State Building, Manhattan New York City?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building features a lightning rod to safeguard its structure and inhabitants since it
+                    is frequently struck by lightning.<br>
+                </p>
+
+                <h5>Which well-known films prominently featured the Empire State Building?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building has appeared in several well-known films, such as "King Kong" (1933),
+                    "Sleepless in Seattle" (1993), and "An Affair to Remember" (1957).<br>
+                </p>
+
+                <h5>How many people each year does the Empire State Building, Manhattan New York City draw in?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    An estimated 4 million people visit the Empire State Building each year.<br>
+                </p>
+
+                <h5>How long does it take to get to the Empire State Building's observation deck?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building lifts take around 1 minute, 15 seconds to go to the 86th floor observation
+                    deck.<br>
+                </p>
+
+                <h5>Is the Empire State Building, Manhattan New York City still among the world's tallest structures?</h5>
+                <p class="px-3 wow bounce" data-wow-delay="0.1s">
+                    The Empire State Building was the highest structure in the world from around 1940 to 1970; however, it
+                    is currently one of the tallest structures.<br>
+                    on American soil.
+                    <br>
+                </p>
             </div>
             <h3 id="Directions" class="my-3">Direction</h3>
             <div class="row px-3 wow bounce" data-wow-delay="0.1s">
                 <div class="col-12 col-lg-4 mx-auto">
                     <!-- Centered image with text -->
-                    <img class="w-100 p-2" src="{{ asset('images/Chinatown/Picture1.jpg') }}" class="img-fluid"
-                        alt="Article Image">
+                    <img class="w-100 p-2"
+                        src="{{ asset('images/empire_state/Empire State Building, Manhattan New York City10.jpg') }}"
+                        class="img-fluid" alt="Article Image">
+                    <small class="text-center d-block">
+                        Empire State Building, Manhattan New York City View from 34 Street with Broadway Avenue and 6 Avenue
+                    </small>
+
+
                 </div>
             </div>
 
-            <h5 class=" wow bounce" data-wow-delay="0.1s">
-                subway train numbers: N, Q, R, and 6 to Canal Street Station at
-                the Middle of Canal Street
-            </h5>
-
-
-            <h5 class=" wow bounce" data-wow-delay="0.1s">
-                Subway train number: B & D to Grand Street station at the east end of Chinatown.
-            </h5>
-            <h5 class=" wow bounce" data-wow-delay="0.1s">
-                Subway train numbers: A, C, and E to Canal Street Station at West Side Canal Street.
+            <h5 class=" wow bounce text-center" data-wow-delay="0.1s">
+                Take the subway (R, Q, N, F, D) to 34 Street with Broadway or 6 Avenues; from there, it is only a one-block
+                walk through 34 Street to Fifth Avenue. You can see building from 34 Street & Broadway Avenue
             </h5>
 
 
             @include('website.layout.link')
             <iframe id="map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6048.175047527368!2d-74.00203075651795!3d40.71608971752944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259f56c2fc10d%3A0xcf9e1370cd1f3111!2sChinatown%2C%20New%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1705438189057!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6175411575823!2d-73.98823932397248!3d40.748440471388065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1705450098911!5m2!1sen!2sus"
                 width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
 

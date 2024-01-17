@@ -130,12 +130,13 @@
                                 </div>
                                 <div class="d-flex ">
                                     <div class="dropdown">
-                                        <button class="btn btn-info text-white mr-2  dropdown-toggle" type="button"
+                                        <button class="btn btn-info text-white mr-2   dropdown-toggle" type="button"
                                             id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
                                             aria-expanded="false">
                                             Article
                                         </button>
-                                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <div style="height: 500px" class="dropdown-menu  overflow-auto"
+                                            aria-labelledby="dropdownMenuButton">
                                             <a class="dropdown-item" href="{{ route('home') }}">Manhattan, New York
                                                 city</a>
                                             <a class="dropdown-item" href="{{ route('times_square') }}">Times Square,
@@ -167,6 +168,13 @@
 
                                             <a class="dropdown-item" href="{{ route('Chinatown') }}">Chinatown,
                                                 NYC</a>
+                                            <a class="dropdown-item" href="{{ route('empire_state') }}"> Empire
+                                                State,
+                                                NYC</a>
+                                            <a class="dropdown-item" href="{{ route('little_italy') }}">
+                                                little_italy, NYC</a>
+
+
                                         </div>
                                     </div>
                                     <form class="form-inline">
